@@ -1,0 +1,17 @@
+name: supply_chain_lakehouse
+version: '1.0.0'
+config-version: 2
+
+profile: supply_chain
+
+model-paths: [ "models" ]
+test-paths: [ "tests" ]
+
+models:
+  supply_chain_lakehouse:
+    staging:
+      +schema: SILVER
+      +materialized: view
+    marts:
+      +schema: GOLD
+      +materialized: table
