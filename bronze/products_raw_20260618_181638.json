@@ -1,0 +1,6309 @@
+[
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:snacks",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:plain-fermented-dairy-desserts",
+      "en:plain-fermented-dairy-desserts-with-cream"
+    ],
+    "code": "6111242100992",
+    "countries_tags": [
+      "en:france",
+      "en:india",
+      "en:morocco",
+      "en:netherlands",
+      "en:united-states"
+    ],
+    "labels_tags": [],
+    "packaging": "Plastique",
+    "product_name": "Perly",
+    "quantity": "100 g"
+  },
+  {
+    "brands": "Mondelez",
+    "categories_tags": [
+      "en:snacks",
+      "en:breakfasts",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:filled-biscuits",
+      "en:sandwich-biscuits"
+    ],
+    "code": "7622210449283",
+    "countries_tags": [
+      "en:algeria",
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:germany",
+      "en:guadeloupe",
+      "en:hungary",
+      "en:luxembourg",
+      "en:martinique",
+      "en:morocco",
+      "en:new-caledonia",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:distributor-labels",
+      "en:charte-lu-harmony",
+      "fr:triman"
+    ],
+    "packaging": "Packet,Hdpe film-packet,Etui en carton,Film en plastique",
+    "product_name": "Prince Go\u00fbt Chocolat au bl\u00e9 complet",
+    "quantity": "300 g"
+  },
+  {
+    "brands": "Lindt & Spr\u00fcngli",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:chocolates",
+      "en:dark-chocolates",
+      "en:dark-chocolate-bar",
+      "en:extra-fine-dark-chocolates",
+      "en:Botanas",
+      "en:Cacao y sus productos",
+      "en:Chocolates negros",
+      "en:Chocolates negros extra finos",
+      "en:Snacks dulces"
+    ],
+    "code": "3046920029759",
+    "countries_tags": [
+      "en:algeria",
+      "en:austria",
+      "en:belgium",
+      "en:bulgaria",
+      "en:canada",
+      "en:czech-republic",
+      "en:finland",
+      "en:france",
+      "en:french-polynesia",
+      "en:germany",
+      "en:ireland",
+      "en:italy",
+      "en:mauritius",
+      "en:monaco",
+      "en:morocco",
+      "en:netherlands",
+      "en:norway",
+      "en:poland",
+      "en:portugal",
+      "en:reunion",
+      "en:romania",
+      "en:singapore",
+      "en:spain",
+      "en:sweden",
+      "en:switzerland",
+      "en:tunisia",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:green-dot",
+      "fr:triman"
+    ],
+    "packaging": "en:Aluminium wrap,en:Box cardboard,en:Caja de cart\u00f3n,en:Card-box,en:Foil-wrapper,es:Recipiente,pt:Papel de aluminio,\u00c9tui carton,Feuille aluminium",
+    "product_name": "Extra fine dark chocolate",
+    "quantity": "100g"
+  },
+  {
+    "brands": "Ekibio, Le pain des Fleurs",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:extruded-crispbreads"
+    ],
+    "code": "06175700",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:luxembourg",
+      "en:morocco",
+      "en:netherlands",
+      "en:senegal",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:no-gluten",
+      "en:organic",
+      "en:crossed-grain-trademark",
+      "en:eu-organic",
+      "en:kosher",
+      "en:vegan",
+      "en:green-dot",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:the-vegan-society",
+      "fr:ab-agriculture-biologique",
+      "fr:afdiag"
+    ],
+    "packaging": "Plastic,Cardboard",
+    "product_name": "Tartines craquantes au sarrasin imp",
+    "quantity": "160 g"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits"
+    ],
+    "code": "3175680011480",
+    "countries_tags": [
+      "en:belgium",
+      "en:bulgaria",
+      "en:france",
+      "en:germany",
+      "en:morocco",
+      "en:reunion",
+      "en:switzerland",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:natural-flavors",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Cardboard,Plastic",
+    "product_name": "S\u00e9same",
+    "quantity": "230 g"
+  },
+  {
+    "brands": "Lindt",
+    "categories_tags": [
+      "en:fermented-foods",
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:chocolates",
+      "en:dark-chocolates",
+      "en:dark-chocolate-bar",
+      "en:dark-chocolate-bar-with-more-than-70-cocoa"
+    ],
+    "code": "3046920022651",
+    "countries_tags": [
+      "en:algeria",
+      "en:belgium",
+      "en:czech-republic",
+      "en:france",
+      "en:germany",
+      "en:guadeloupe",
+      "en:italy",
+      "en:morocco",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:made-in-france",
+      "fr:triman",
+      "fr:Lindt & Spr\u00fcngli Cacao Farming Program"
+    ],
+    "packaging": "M\u00e9tal,Carton,M\u00e9taux recyclables,Aluminium",
+    "product_name": "Excellence 70% cacao noir intense",
+    "quantity": "100 g"
+  },
+  {
+    "brands": "Lindt",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:chocolates",
+      "en:dark-chocolates",
+      "en:dark-chocolate-bar"
+    ],
+    "code": "3046920022606",
+    "countries_tags": [
+      "en:austria",
+      "en:belgium",
+      "en:france",
+      "en:germany",
+      "en:italy",
+      "en:morocco",
+      "en:netherlands",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:non-eu-agriculture",
+      "en:made-in-belgium",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "fr:triman"
+    ],
+    "packaging": "fr:emballage carton,fr:papier aluminium",
+    "product_name": "Excellence 85% cacao",
+    "quantity": "100g"
+  },
+  {
+    "brands": "tonik",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:wafers",
+      "en:chocolate-biscuits",
+      "en:stuffed-wafers",
+      "en:chocolate-stuffed-wafers"
+    ],
+    "code": "6111031005064",
+    "countries_tags": [
+      "en:france",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [],
+    "product_name": "Tonik",
+    "quantity": "22 g"
+  },
+  {
+    "brands": "Bjorg",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:chocolate-biscuits",
+      "en:filled-biscuits",
+      "en:dark-chocolate-biscuits",
+      "en:sandwich-biscuits"
+    ],
+    "code": "3229820100234",
+    "countries_tags": [
+      "en:france",
+      "en:luxembourg",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:certified-b-corporation",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:no-palm-oil",
+      "en:pure-cocoa-butter",
+      "fr:ab-agriculture-biologique",
+      "fr:farine-de-ble-francais"
+    ],
+    "packaging": "\u00c9tui,Carton,Plastique,Sec,Film",
+    "product_name": "Fourr\u00e9s Chocolat Noir",
+    "quantity": "225 g"
+  },
+  {
+    "brands": "La Boulang\u00e8re",
+    "categories_tags": [
+      "en:snacks",
+      "en:breakfasts",
+      "en:sweet-snacks",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:brioches",
+      "en:pure-butter-brioche",
+      "fr:brioches-tranchees"
+    ],
+    "code": "3284230006408",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic",
+      "en:free-range",
+      "en:no-artificial-flavors",
+      "en:non-eu-agriculture",
+      "en:1-for-the-planet",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fair-trade-organic",
+      "en:fr-bio-01",
+      "en:free-range-eggs",
+      "en:french-eggs",
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:ab-agriculture-biologique",
+      "fr:agri-ethique-france"
+    ],
+    "packaging": "Film en plastique,Sachet plastique",
+    "product_name": "Brioche Tranch\u00e9e Bio 400g",
+    "quantity": "400 g"
+  },
+  {
+    "brands": "wasa, WAZA",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:breads",
+      "en:crisps",
+      "en:rusks",
+      "en:crispbreads",
+      "fr:Pain croquant"
+    ],
+    "code": "7300400481595",
+    "countries_tags": [
+      "en:france",
+      "en:italy",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:green-dot",
+      "fr:triman"
+    ],
+    "packaging": "Papier,Enveloppe,en:Package paper,en:Paper recycling",
+    "product_name": "AUTHENTIQUE",
+    "quantity": "275 g"
+  },
+  {
+    "brands": "wasa",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:breads",
+      "en:crisps",
+      "en:extruded-crispbreads",
+      "en:crispbreads",
+      "en:crispbreads-wholemeal",
+      "en:extruded-and-grilled-crispbread"
+    ],
+    "code": "7300400481588",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:guadeloupe",
+      "en:italy",
+      "en:monaco",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:green-dot",
+      "en:high-fibres",
+      "fr:triman",
+      "fr:Emballage-recyclable"
+    ],
+    "packaging": "Carta,Busta",
+    "product_name": "Fibres",
+    "quantity": "230 g"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:dry-biscuits"
+    ],
+    "code": "3175681851849",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:germany",
+      "en:guadeloupe",
+      "en:martinique",
+      "en:morocco",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:low-or-no-sugar",
+      "en:low-sugar",
+      "en:enriched-with-vitamins",
+      "en:low-or-no-sodium",
+      "en:no-preservatives",
+      "en:non-eu-agriculture",
+      "en:reduced-sugar",
+      "en:rich-in-vitamin-e",
+      "en:source-of-fibre",
+      "en:sustainable-farming",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:high-fibres",
+      "en:low-sodium",
+      "en:made-in-france",
+      "en:natural-flavors",
+      "en:no-colorings",
+      "en:no-dyes-or-preservatives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:rich-in-vitamin-b1",
+      "en:rich-in-vitamin-b9",
+      "en:vitamin-b6-source",
+      "en:without-sweeteners",
+      "fr:farine-de-ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "R PENSEZ AU TRI ! FILM PLASTIQUE ETUI CARTON \u00c0 JETER O A RECYCLER",
+    "product_name": "Pomme Noisette",
+    "quantity": "230 g"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "fr:Biscuits au son de bl\u00e9",
+      "fr:Biscuits au son de bl\u00e9 et la figue"
+    ],
+    "code": "3251490332080",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:martinique",
+      "en:morocco",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "packaging": "Plastic,Box,Cardboard,fr:Bo\u00eete en carton sachet en plastique,fr:Etui en carton,fr:Film en plastique",
+    "product_name": "Figue & son",
+    "quantity": "210 g"
+  },
+  {
+    "brands": "gull\u00f3n",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:crackers-breakfast"
+    ],
+    "code": "8410376009392",
+    "countries_tags": [
+      "en:bulgaria",
+      "en:france",
+      "en:morocco",
+      "en:portugal",
+      "en:romania",
+      "en:spain",
+      "en:tunisia"
+    ],
+    "labels_tags": [
+      "en:low-or-no-sugar",
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:vegan",
+      "en:european-vegetarian-union",
+      "en:green-dot",
+      "en:high-fibres",
+      "en:no-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "en:with-sweeteners",
+      "es:Recicla amarillo",
+      "es:Recicla azul",
+      "pt:Ecoponto amarelo",
+      "pt:Ecoponto azul"
+    ],
+    "packaging": "Pack",
+    "product_name": "Keksz zero sugar free",
+    "quantity": "170 g"
+  },
+  {
+    "brands": "Cristaline",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:snacks",
+      "en:waters",
+      "en:spring-waters"
+    ],
+    "code": "3268840001008",
+    "countries_tags": [
+      "en:belgium",
+      "en:cote-d-ivoire",
+      "en:france",
+      "en:germany",
+      "en:luxembourg",
+      "en:mali",
+      "en:martinique",
+      "en:morocco",
+      "en:russia",
+      "en:switzerland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "fr:triman",
+      "fr:Sans Nitrates"
+    ],
+    "packaging": "Plastique,Bouteille ou Flacon,PET 1 - Polyt\u00e9r\u00e9phtalate d'\u00e9thyl\u00e8ne,Bouteille,Bouchon en plastique",
+    "product_name": "CRISTALINE Eau De Source 0.5L",
+    "quantity": "500 ml"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:shortbread-cookies",
+      "en:fruit-biscuits",
+      "en:shortbread-biscuit-with-fruits"
+    ],
+    "code": "3175681851856",
+    "countries_tags": [
+      "en:france",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ],
+    "packaging": "Carton,Plastique",
+    "product_name": "Biscuit raisins",
+    "quantity": "270 g"
+  },
+  {
+    "brands": "Henry's",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits"
+    ],
+    "code": "3362600011044",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [],
+    "packaging": "Plastique",
+    "product_name": "Henry\u2019s",
+    "quantity": "42g"
+  },
+  {
+    "brands": "Tuc",
+    "categories_tags": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "code": "5410041001204",
+    "countries_tags": [
+      "en:austria",
+      "en:belgium",
+      "en:denmark",
+      "en:estonia",
+      "en:finland",
+      "en:france",
+      "en:germany",
+      "en:italy",
+      "en:luxembourg",
+      "en:malta",
+      "en:morocco",
+      "en:netherlands",
+      "en:portugal",
+      "en:spain",
+      "en:sweden",
+      "en:switzerland",
+      "en:world"
+    ],
+    "labels_tags": [
+      "fr:triman"
+    ],
+    "packaging": "Pl\u00e1stico",
+    "product_name": "Tuc Original",
+    "quantity": "100 g"
+  },
+  {
+    "brands": "J. D. GROSS",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:chocolates",
+      "en:dark-chocolates"
+    ],
+    "code": "20995553",
+    "countries_tags": [
+      "en:austria",
+      "en:belgium",
+      "en:bulgaria",
+      "en:estonia",
+      "en:finland",
+      "en:france",
+      "en:germany",
+      "en:italy",
+      "en:lithuania",
+      "en:slovakia",
+      "en:slovenia",
+      "en:spain",
+      "en:switzerland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:fairtrade-international",
+      "en:no-artificial-flavors",
+      "en:vegan",
+      "en:fairtrade-cocoa",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:max-havelaar"
+    ],
+    "packaging": "Cardboard,Non-corrugated cardboard",
+    "product_name": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 85% \u043a\u0430\u043a\u0430\u043e\u0432\u0430 \u043c\u0430\u0441\u0430",
+    "quantity": "125g"
+  },
+  {
+    "brands": "Bjorg",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:chocolate-biscuits",
+      "en:oatmeal-biscuits"
+    ],
+    "code": "3229820794525",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:certified-b-corporation",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-c",
+      "fr:ab-agriculture-biologique",
+      "fr:triman"
+    ],
+    "packaging": "Plastique, Sachet, Sachet individuel, Boite en carton",
+    "product_name": "Avoine chocolat",
+    "quantity": "130 g"
+  },
+  {
+    "brands": "Brioche Pasquier",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:milk-bread-rolls"
+    ],
+    "code": "3256540000698",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:switzerland",
+      "en:united-kingdom",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:french-milk",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-c",
+      "fr:farine-de-ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "Plastique,Sachet,Clip en plastique,Clip et sachet plastique \u00e0 jeter,Pensez au tri!,Point vert,Sachet en plastique",
+    "product_name": "Pains au lait",
+    "quantity": "x10 (350g)"
+  },
+  {
+    "brands": "La Fourn\u00e9e Dor\u00e9e",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:brioches"
+    ],
+    "code": "3587220002252",
+    "countries_tags": [
+      "en:france",
+      "en:germany",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:pure-butter",
+      "fr:triman"
+    ],
+    "packaging": "Plastic,Bag,fr:Film en plastique",
+    "product_name": "La g\u00e2che tranch\u00e9e",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Ferrero, nutella",
+    "categories_tags": [
+      "en:snacks",
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "fr:pates-a-tartiner",
+      "en:hazelnut-spreads",
+      "en:chocolate-spreads",
+      "en:cocoa-and-hazelnuts-spreads"
+    ],
+    "code": "80176800",
+    "countries_tags": [
+      "en:austria",
+      "en:belgium",
+      "en:bulgaria",
+      "en:croatia",
+      "en:france",
+      "en:germany",
+      "en:greece",
+      "en:hungary",
+      "en:ireland",
+      "en:israel",
+      "en:lebanon",
+      "en:martinique",
+      "en:montenegro",
+      "en:morocco",
+      "en:pakistan",
+      "en:reunion",
+      "en:romania",
+      "en:saudi-arabia",
+      "en:senegal",
+      "en:serbia",
+      "en:slovenia",
+      "en:spain",
+      "en:switzerland",
+      "en:tunisia",
+      "en:turkey",
+      "en:united-arab-emirates",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:green-dot",
+      "en:made-in-poland"
+    ],
+    "packaging": "Staklo,en:Jar,en:Glass-jar,en:Mixed plastic-film,en:Pp-lid,fr:couvercle plasticle,fr:pot en verre",
+    "product_name": "Nutella",
+    "quantity": "750g"
+  },
+  {
+    "brands": "Nutella biscuits, nutella",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:biscuits-cookies-shelf-stable",
+      "fr:Biscoitos recheados"
+    ],
+    "code": "8000500310427",
+    "countries_tags": [
+      "en:algeria",
+      "en:france",
+      "en:germany",
+      "en:greece",
+      "en:italy",
+      "en:morocco",
+      "en:portugal",
+      "en:romania",
+      "en:spain",
+      "en:switzerland",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "fr:Ponto Verde"
+    ],
+    "packaging": "Plastique,O 7 - Autres plastiques",
+    "product_name": "Biscuits NUTELLA Biscuits Noisettes et Cacao x22 - 304g",
+    "quantity": "304 g"
+  },
+  {
+    "brands": "La Boulang\u00e8re Bio, La boulangere",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:sweet-snacks",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:milk-bread-rolls"
+    ],
+    "code": "3284230011884",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic",
+      "en:free-range",
+      "en:no-artificial-flavors",
+      "en:non-eu-agriculture",
+      "en:1-for-the-planet",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fair-trade-organic",
+      "en:fr-bio-01",
+      "en:free-range-eggs",
+      "en:french-eggs",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:ab-agriculture-biologique",
+      "fr:agri-ethique-france",
+      "fr:farine-de-ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "Clip en plastique,Film en plastique",
+    "product_name": "8 Pains au lait frais Bio 280g",
+    "quantity": "280 g"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:dry-biscuits"
+    ],
+    "code": "3175681066632",
+    "countries_tags": [
+      "en:france",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:low-or-no-sugar",
+      "en:low-sugar",
+      "en:reduced-sugar",
+      "en:source-of-fibre",
+      "en:45-less-sugar",
+      "en:made-in-france",
+      "en:magnesium-source",
+      "en:natural-flavors",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:farine-de-ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "",
+    "product_name": "Biscuits pavot citron",
+    "quantity": "200 g"
+  },
+  {
+    "brands": "Bimo",
+    "categories_tags": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:cakes",
+      "en:soft-cake-filled-with-chocolate"
+    ],
+    "code": "6111031005439",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "product_name": "Merendina",
+    "quantity": "36 g"
+  },
+  {
+    "brands": "LU",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:extruded-crispbreads"
+    ],
+    "code": "3041090063206",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:luxembourg",
+      "en:morocco",
+      "en:netherlands",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:distributor-labels",
+      "en:no-preservatives",
+      "en:charte-lu-harmony",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:no-colorings",
+      "fr:triman"
+    ],
+    "packaging": "Plastic,Cardboard,fr:Bo\u00eete carton,fr:Etui en carton,fr:Plastique \u00e0 jeter,fr:Sachet en plastique,fr:\u00c9tui carton \u00e0 recycler",
+    "product_name": "Cracotte C\u00e9r\u00e9ales Compl\u00e8tes",
+    "quantity": "250"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits"
+    ],
+    "code": "3175681851863",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:morocco",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:no-gmos",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:Farine-de-ble-filiere-durable"
+    ],
+    "packaging": "fr:1 \u00e9tui en carton \u00e0 recycler,fr:4 sachets en plastiques \u00e0 recycler",
+    "product_name": "Biscuits Soja Figue",
+    "quantity": "270 g"
+  },
+  {
+    "brands": "wasa",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:breads",
+      "en:crisps",
+      "en:extruded-crispbreads",
+      "en:crispbreads",
+      "en:crispbreads-wholemeal",
+      "en:extruded-and-grilled-crispbread"
+    ],
+    "code": "7300400481571",
+    "countries_tags": [
+      "en:france",
+      "en:guadeloupe",
+      "en:italy",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "fr:triman",
+      "fr:Co2-compensated"
+    ],
+    "packaging": "Papier",
+    "product_name": "wasa",
+    "quantity": "270 g"
+  },
+  {
+    "brands": "Henry's",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:shortbread-cookies",
+      "en:shortbread-cookie-with-coconut"
+    ],
+    "code": "3362600011228",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [],
+    "packaging": "Plastique",
+    "product_name": "Sable coco Henry s 42g",
+    "quantity": "42g"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:chocolate-biscuits"
+    ],
+    "code": "3175680011534",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:guadeloupe",
+      "en:martinique",
+      "en:morocco",
+      "en:reunion",
+      "en:senegal",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:low-or-no-fat",
+      "en:low-fat",
+      "en:no-preservatives",
+      "en:reduced-fat",
+      "en:source-of-fibre",
+      "en:sustainable-farming",
+      "en:calcium-source",
+      "en:eu-agriculture",
+      "en:green-dot",
+      "en:high-fibres",
+      "en:made-in-france",
+      "en:magnesium-source",
+      "en:natural-flavors",
+      "en:no-colorings",
+      "en:no-dyes-or-preservatives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-c",
+      "en:rainforest-alliance",
+      "en:rainforest-alliance-cocoa",
+      "en:utz-certified",
+      "en:utz-certified-cocoa",
+      "en:vitamin-b6-source",
+      "en:vitamin-b9-source",
+      "en:vitamin-e-source",
+      "fr:farine-de-ble-francais",
+      "fr:Ble-durable"
+    ],
+    "packaging": "Plastic,Box,Dry,fr:Etui en carton,fr:Sachet en plastique",
+    "product_name": "Biscuit lait chocolat",
+    "quantity": "230 g"
+  },
+  {
+    "brands": "Jardin Bio",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:extruded-crispbreads"
+    ],
+    "code": "06153153",
+    "countries_tags": [
+      "en:france",
+      "en:reunion"
+    ],
+    "labels_tags": [
+      "en:no-gluten",
+      "en:organic",
+      "en:crossed-grain-trademark",
+      "en:eu-organic",
+      "en:1-for-the-planet",
+      "en:dzg-gluten-free",
+      "en:fr-bio-01",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ab-agriculture-biologique",
+      "fr:triman"
+    ],
+    "packaging": "",
+    "product_name": "Tartines craquantes quinoa - pois chiche sans gluten",
+    "quantity": ""
+  },
+  {
+    "brands": "Nature Valley Protein",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:specific-products",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:nuts-and-their-products",
+      "en:products-for-specific-diets",
+      "en:biscuits",
+      "en:products-without-gluten",
+      "en:bars",
+      "en:dietary-supplements",
+      "en:bodybuilding-supplements",
+      "en:nut-bars",
+      "en:gluten-free-biscuits",
+      "en:peanut-bars",
+      "en:protein-bars"
+    ],
+    "code": "8410076610737",
+    "countries_tags": [
+      "en:belgium",
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:no-gluten",
+      "en:no-preservatives",
+      "en:no-colorings"
+    ],
+    "packaging": "Carton",
+    "product_name": "Protein Cacahuetes\ud83e\udd5c & Chocolat\ud83c\udf6b",
+    "quantity": "160 g (4x40 g)"
+  },
+  {
+    "brands": "Maruja",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries",
+      "en:chocolate-candies",
+      "en:chocolates",
+      "en:chocolates-with-almonds",
+      "en:compound-chocolates",
+      "en:Food"
+    ],
+    "code": "8425197712024",
+    "countries_tags": [
+      "en:algeria",
+      "en:cameroon",
+      "en:france",
+      "en:morocco",
+      "en:spain",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:green-dot",
+      "en:made-in-spain",
+      "xx:ce"
+    ],
+    "packaging": "M\u00e9tal,Papier,en:Recyclable Metals,Aluminium",
+    "product_name": "Chocolate con leche y almendras",
+    "quantity": "150 g"
+  },
+  {
+    "brands": "Bjorg",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits"
+    ],
+    "code": "3229820021027",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:luxembourg",
+      "en:morocco",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:certified-by-ecocert",
+      "en:eu-organic",
+      "en:source-of-fibre",
+      "en:certified-b-corporation",
+      "en:eu-agriculture",
+      "en:fr-bio-01",
+      "en:high-fibres",
+      "en:made-in-france",
+      "en:magnesium-source",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "en:phosphore-source",
+      "fr:ab-agriculture-biologique",
+      "fr:ble-francais",
+      "fr:triman",
+      "fr:Au-ble-complet"
+    ],
+    "packaging": "Plastique,Papier,Paquet,Etui en carton,Sachet en plastique",
+    "product_name": "P'tit Nature Complet",
+    "quantity": "200 g"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:chocolate-biscuits"
+    ],
+    "code": "3175681105423",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:low-or-no-sugar",
+      "en:source-of-fibre",
+      "en:sustainable-farming",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:no-palm-oil",
+      "en:no-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:utz-certified",
+      "fr:triman"
+    ],
+    "packaging": "Caja,fr:Etui en carton,fr:Film en plastique",
+    "product_name": "Cookie cacao p\u00e9pites Sans Sucre",
+    "quantity": "130 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:sweet-snacks",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:brioches",
+      "fr:brioches-tressees",
+      "en:packaged-breads",
+      "en:pure-butter-brioche",
+      "fr:Brioches natures"
+    ],
+    "code": "3228857001231",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Sachet, Enveloppe, Sachet en plastique",
+    "product_name": "Harrys brioche tressee nature au sucre perle sans additifs 500g",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Lindt",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:chocolates",
+      "en:dark-chocolates",
+      "en:dark-chocolate-bar-with-more-than-70-cocoa",
+      "en:extra-fine-dark-chocolates"
+    ],
+    "code": "3046920028363",
+    "countries_tags": [
+      "en:andorra",
+      "en:australia",
+      "en:austria",
+      "en:belgium",
+      "en:bulgaria",
+      "en:denmark",
+      "en:france",
+      "en:germany",
+      "en:hungary",
+      "en:ireland",
+      "en:italy",
+      "en:lithuania",
+      "en:morocco",
+      "en:netherlands",
+      "en:new-zealand",
+      "en:poland",
+      "en:portugal",
+      "en:romania",
+      "en:russia",
+      "en:spain",
+      "en:switzerland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:green-dot",
+      "en:made-in-france"
+    ],
+    "packaging": "Cart\u00e3o,Papel cartonado,es:Caja de cart\u00f3n,Papel de aluminio,ro:Produkt",
+    "product_name": "Excellence 85% Cacao Rich Dark",
+    "quantity": "100g"
+  },
+  {
+    "brands": "fin CARR\u00c9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:chocolates",
+      "en:dark-chocolates",
+      "en:extra-fine-dark-chocolates",
+      "en:Cacao-et-derives"
+    ],
+    "code": "20022464",
+    "countries_tags": [
+      "en:belgium",
+      "en:bulgaria",
+      "en:czech-republic",
+      "en:finland",
+      "en:germany",
+      "en:netherlands",
+      "en:poland",
+      "en:spain"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:fairtrade-international",
+      "en:vegan",
+      "en:fairtrade-cocoa",
+      "en:pure-cocoa-butter",
+      "en:rainforest-alliance",
+      "en:rainforest-alliance-cocoa",
+      "fr:triman",
+      "en:Commerce-equitable"
+    ],
+    "packaging": "Plastikowe,Mixed plastic-packet,Sachet plastique de 3g,",
+    "product_name": "NOIR INTENSE 74% CACAO",
+    "quantity": "100 gram"
+  },
+  {
+    "brands": "Nestl\u00e9, NESTLE DESSERT, Tablettes",
+    "categories_tags": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries",
+      "en:chocolate-candies",
+      "en:chocolates",
+      "en:dark-chocolates",
+      "en:dark-chocolate-bar",
+      "en:dark-chocolate-bars-for-cooking",
+      "en:Chocolats noirs p\u00e2tissiers en tablette",
+      "en:Confiseries",
+      "en:Confiseries chocolat\u00e9es"
+    ],
+    "code": "7613035040823",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:germany",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:nestle-cocoa-plan",
+      "en:nutriscore",
+      "en:nutriscore-grade-e",
+      "en:pure-cocoa-butter",
+      "en:rainforest-alliance",
+      "fr:triman",
+      "en:Point Vert",
+      "en:V\u00e9g\u00e9tarien"
+    ],
+    "packaging": "Metall,Wiederverwertbare Metalle,Aluminium,en:Barquette,en:Bo\u00eete,en:Papier",
+    "product_name": "Nestl\u00e9 dessert Noir",
+    "quantity": "205g"
+  },
+  {
+    "brands": "Lindt EXCELLENCE",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:chocolates",
+      "en:dark-chocolates",
+      "en:dark-chocolate-bar-with-more-than-70-cocoa"
+    ],
+    "code": "3046920010047",
+    "countries_tags": [
+      "en:australia",
+      "en:belgium",
+      "en:czech-republic",
+      "en:france",
+      "en:germany",
+      "en:ireland",
+      "en:italy",
+      "en:morocco",
+      "en:netherlands",
+      "en:new-zealand",
+      "en:spain",
+      "en:switzerland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "fr:triman",
+      "fr:Lindt & Spr\u00fcngli Farming Program"
+    ],
+    "packaging": "M\u00e9tal,Pot,M\u00e9taux recyclables,Aluminium,Barquette,en:Card-packet,en:Container,es:Tableta",
+    "product_name": "78% cacao",
+    "quantity": "100 gr"
+  },
+  {
+    "brands": "Harry's",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:sweet-snacks",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:brioches",
+      "en:brioche-prepacked",
+      "fr:brioches-tranchees",
+      "fr:Brioches-natures"
+    ],
+    "code": "3228857001378",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:low-or-no-sugar",
+      "en:low-sugar",
+      "en:reduced-sugar",
+      "en:30-less-sugar",
+      "en:made-in-france",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Enveloppe,Sachet en plastique",
+    "product_name": "Brioche moins de sucre",
+    "quantity": "485 g"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:chocolate-biscuits",
+      "fr:Biscuit aux c\u00e9r\u00e9ales et p\u00e9pites de chocolat"
+    ],
+    "code": "3251490307002",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-c",
+      "en:rainforest-alliance"
+    ],
+    "packaging": "Box,Cardboard,fr:Sachet plastique",
+    "product_name": "Go\u00fbter p\u00e9pites de chocolat",
+    "quantity": "250 g"
+  },
+  {
+    "brands": "McVitie's, United Biscuits",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:shortbread-cookies",
+      "en:plain-wheat-biscuits"
+    ],
+    "code": "5000168198491",
+    "countries_tags": [
+      "en:france",
+      "en:reunion",
+      "en:switzerland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-artificial-flavors",
+      "en:no-artificial-colors",
+      "en:no-artificial-colours-or-flavours",
+      "en:no-colorings",
+      "fr:tidy-man",
+      "fr:triman",
+      "en:Riche-en-cereales",
+      "en:Verified",
+      "fr:Fabriqu\u00e9 au Royaume-Uni"
+    ],
+    "packaging": "Plastique, Carton, Film plastique \u00e0 jeter, Pensez au tri!, \u00c9tui carton \u00e0 recycler",
+    "product_name": "Sabl\u00e9s Anglais L'Original",
+    "quantity": "400 g"
+  },
+  {
+    "brands": "Vico",
+    "categories_tags": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:crackers-appetizers",
+      "en:lentil-crisps",
+      "fr:Chips-produits-aperitifs"
+    ],
+    "code": "3336971805021",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:nutri-score-b-c",
+      "en:nutriscore",
+      "en:nutriscore-grade-b"
+    ],
+    "packaging": "Plastique,Sachet,Film en plastique,Pensez au tri!,Point vert,Sachet plastique \u00e0 jeter",
+    "product_name": "Chips de lentilles saveur fines herbes",
+    "quantity": "85 g"
+  },
+  {
+    "brands": "LU",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:chocolate-biscuits",
+      "en:shortbread-cookies",
+      "en:chocolate-covered-biscuits",
+      "en:digestives-covered-with-chocolate",
+      "en:shortbread-cookie-with-chocolate"
+    ],
+    "code": "7622210601988",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:martinique",
+      "en:morocco",
+      "en:reunion",
+      "en:switzerland",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:distributor-labels",
+      "en:no-preservatives",
+      "en:charte-lu-harmony",
+      "en:made-in-france",
+      "en:no-colorings",
+      "fr:triman",
+      "en:Ble-francais"
+    ],
+    "packaging": "fr:sachet plastique,fr:\u00e9tui carton",
+    "product_name": "Granola L'Original",
+    "quantity": "200 g e"
+  },
+  {
+    "brands": "Nature ValleyGeneral Mills",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:bars",
+      "en:cereal-bars"
+    ],
+    "code": "8410076601131",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:green-dot",
+      "en:made-in-spain",
+      "en:no-colorings",
+      "en:no-dyes-or-preservatives",
+      "en:no-lactose",
+      "fr:triman"
+    ],
+    "packaging": "Plastique,Bo\u00eete,Carton,Bo\u00eete en carton,Emballage carton,Etui en carton,Film en plastique,Film plastique \u00e0 jeter,Pensez au tri!,Point vert,\u00c9tui carton \u00e0 recycler,nl:Triman",
+    "product_name": "Crunchy avoine et miel",
+    "quantity": "210 g, 5 barres doubles de 42 g"
+  },
+  {
+    "brands": "Excelo",
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:drop-cookies"
+    ],
+    "code": "6111259343108",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:green-dot"
+    ],
+    "product_name": "KING COOKIES",
+    "quantity": ""
+  },
+  {
+    "brands": "Milky Food Professional",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:fromages-blancs-petit-suisses-and-skyr",
+      "en:plain-fermented-dairy-desserts",
+      "fr:fromages-blancs",
+      "fr:fromages-blancs-natures"
+    ],
+    "code": "6111246721261",
+    "countries_tags": [
+      "en:canada",
+      "en:france",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:halal",
+      "en:no-additives"
+    ],
+    "packaging": "Plastique",
+    "product_name": "Fromage Blanc Nature",
+    "quantity": "1 kg"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:snacks",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:plain-fermented-dairy-desserts",
+      "en:plain-fermented-dairy-desserts-with-cream"
+    ],
+    "code": "6111242100992",
+    "countries_tags": [
+      "en:france",
+      "en:india",
+      "en:morocco",
+      "en:netherlands",
+      "en:united-states"
+    ],
+    "labels_tags": [],
+    "packaging": "Plastique",
+    "product_name": "Perly",
+    "quantity": "100 g"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:meals",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:semi-skimmed-milks"
+    ],
+    "code": "6111266962187",
+    "countries_tags": [
+      "en:france",
+      "en:morocco",
+      "en:netherlands",
+      "en:united-states"
+    ],
+    "labels_tags": [],
+    "product_name": "Lait de la ferme jaouda",
+    "quantity": "450 ml"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:spreads",
+      "en:salted-spreads",
+      "en:cheese-spreads",
+      "en:Fromage frais nature \u00e0 21%de mati\u00e8re grasse"
+    ],
+    "code": "6111242106949",
+    "countries_tags": [
+      "en:canada",
+      "en:france",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:no-gluten"
+    ],
+    "packaging": "en:Plastic",
+    "product_name": "Jben",
+    "quantity": "160g"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:homogenized-milks",
+      "en:pasteurised-products",
+      "en:uht-milks",
+      "en:whole-milks",
+      "en:cow-milks",
+      "en:whole-milk-uht"
+    ],
+    "code": "6111242101180",
+    "countries_tags": [
+      "en:democratic-republic-of-the-congo",
+      "en:mauritania",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:no-gluten"
+    ],
+    "packaging": "Multilayer composite,Tetra Pak",
+    "product_name": "uht jaouda 1L",
+    "quantity": "1L"
+  },
+  {
+    "brands": "Original",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:cream-cheeses"
+    ],
+    "code": "6111246721278",
+    "countries_tags": [
+      "en:france",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "product_name": "Cream cheese",
+    "quantity": "1 kg"
+  },
+  {
+    "brands": "Yoplait",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:fromages-blancs-petit-suisses-and-skyr",
+      "en:plain-fermented-dairy-desserts",
+      "en:skyrs",
+      "en:plain-skyrs"
+    ],
+    "code": "3329770077003",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:ireland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:french-milk",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "packaging": "",
+    "product_name": "Skyr nature 0%",
+    "quantity": "850 g"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:yogurts",
+      "en:plain-fermented-dairy-desserts",
+      "en:plain-yogurts"
+    ],
+    "code": "6111242100206",
+    "countries_tags": [
+      "en:france",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [],
+    "packaging": "",
+    "product_name": "Le nature",
+    "quantity": "110 g"
+  },
+  {
+    "brands": "la Hollandaise",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:cow-cheeses",
+      "en:cheeses-from-the-united-kingdom",
+      "en:cheeses-from-england",
+      "en:sliced-cheeses",
+      "en:cheddar-cheese",
+      "en:cheddar-slices"
+    ],
+    "code": "6111203006653",
+    "countries_tags": [
+      "en:france",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "ar:agr\u00e9ment sanitaire MA"
+    ],
+    "product_name": "Cheddar",
+    "quantity": "24 336g"
+  },
+  {
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:desserts",
+      "en:spreads",
+      "en:dairy-desserts",
+      "en:salted-spreads",
+      "en:fermented-dairy-desserts",
+      "en:cheese-spreads"
+    ],
+    "code": "6111259092495",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:halal"
+    ],
+    "product_name": "Goldium cr\u00e9meux",
+    "quantity": "1 kg"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:homogenized-milks",
+      "en:pasteurised-products",
+      "en:semi-skimmed-milks",
+      "en:uht-milks",
+      "en:cow-milks"
+    ],
+    "code": "6111242100817",
+    "countries_tags": [
+      "en:france",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:no-gluten",
+      "en:organic",
+      "en:catalan-council-of-organic-production"
+    ],
+    "packaging": "",
+    "product_name": "Le Lait demi \u00e9cr\u00e9m\u00e9",
+    "quantity": "500 ml"
+  },
+  {
+    "brands": "REWE Beste Wahl",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:cheese-preparations",
+      "en:processed-cheeses",
+      "fr:121314",
+      "fr:Aliments-laitiers"
+    ],
+    "code": "6111246722107",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:source-of-proteins",
+      "en:high-proteins"
+    ],
+    "product_name": "Frommage fondu",
+    "quantity": "1kg"
+  },
+  {
+    "brands": "jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:yogurts"
+    ],
+    "code": "6111242100305",
+    "countries_tags": [
+      "en:france",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [],
+    "product_name": "jaouda Cremy",
+    "quantity": "110g"
+  },
+  {
+    "brands": "Danone",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:yogurts"
+    ],
+    "code": "6111032001003",
+    "countries_tags": [
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [],
+    "packaging": "",
+    "product_name": "Assil vanille",
+    "quantity": "110 g"
+  },
+  {
+    "brands": "Danone, Centrale, Jebli",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:spreads",
+      "en:salted-spreads",
+      "en:cheese-spreads",
+      "en:cream-cheeses"
+    ],
+    "code": "6111206000733",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [],
+    "packaging": "fr:pot en plastique",
+    "product_name": "Jebli",
+    "quantity": "190g"
+  },
+  {
+    "brands": "Elle & Vire",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:cream-cheeses",
+      "en:Fromages-\u00e0-la-cr\u00e8me",
+      "en:Produits-ferment\u00e9s",
+      "en:Produits-laitiers-ferment\u00e9s"
+    ],
+    "code": "3480341000674",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:low-or-no-fat",
+      "en:pasteurized",
+      "en:source-of-proteins",
+      "en:french-milk",
+      "en:high-proteins",
+      "en:made-in-france",
+      "en:no-fat"
+    ],
+    "packaging": "Fresh,fr:Portions",
+    "product_name": "Carr\u00e9 Frais 0% - Nature",
+    "quantity": "200 g"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:dairy-drinks",
+      "en:fermented-dairy-desserts",
+      "en:fermented-drinks",
+      "en:fermented-milk-drinks",
+      "en:yogurts",
+      "en:kefir"
+    ],
+    "code": "6111266963207",
+    "countries_tags": [
+      "en:egypt",
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:no-gluten"
+    ],
+    "product_name": "\u0643\u064a\u0641\u064a\u0631",
+    "quantity": "320g"
+  },
+  {
+    "brands": "Danone",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:dairy-drinks",
+      "en:fermented-dairy-desserts",
+      "en:fermented-drinks",
+      "en:fermented-dairy-desserts-with-fruits",
+      "en:fermented-milk-drinks",
+      "en:yogurts",
+      "en:fruit-yogurts",
+      "en:yogurt-drinks"
+    ],
+    "code": "6111032006619",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [],
+    "packaging": "Plastique",
+    "product_name": "Jamila \u0631\u0627\u064a\u0628\u064a",
+    "quantity": "165 g"
+  },
+  {
+    "brands": "Le Fromage Fouett\u00e9 Madame Lo\u00efk, Paysan breton",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:spreads",
+      "en:salted-spreads",
+      "en:cheese-spreads",
+      "en:cheeses-perishable",
+      "fr:Fromage fouett\u00e9"
+    ],
+    "code": "3412290070101",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-artificial-flavors",
+      "en:no-preservatives",
+      "fr:concours-general-agricole",
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:produced-in-brittany",
+      "en:with-guerande-salt",
+      "fr:medaille-d-or-du-concours-general-agricole",
+      "fr:medaille-d-or-du-concours-general-agricole-2018",
+      "fr:medaille-d-or-du-concours-general-agricole-2020",
+      "fr:triman"
+    ],
+    "packaging": "Plastic, Cardboard, Fresh, fr:Couvercle carton, fr:Opercule m\u00e9tal, fr:Opercule m\u00e9tal - pot et son couvercle carton \u00e0 recycler, fr:Pensez au tri!, fr:Point vert, fr:Pot carton, fr:Triman, en:paper-carton",
+    "product_name": "Fromage \u00e0 tartiner Nature fouett\u00e9 MADAME LOIK - 180g",
+    "quantity": "180 g"
+  },
+  {
+    "brands": "Reina",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:milks-liquid-and-powder",
+      "en:dairy-drinks",
+      "en:fermented-drinks",
+      "en:milks",
+      "en:fermented-milk-drinks",
+      "en:kefir"
+    ],
+    "code": "8420756010320",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [],
+    "product_name": "k\u00e9fir nature",
+    "quantity": "600 grammes"
+  },
+  {
+    "brands": "le berger",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:fromages-blancs-petit-suisses-and-skyr",
+      "fr:fromages-blancs"
+    ],
+    "code": "6111246721940",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "product_name": "le blanc nature 900g araai",
+    "quantity": "900 g"
+  },
+  {
+    "brands": "Salim",
+    "categories_tags": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks"
+    ],
+    "code": "6111032000600",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:no-gluten"
+    ],
+    "packaging": "Container",
+    "product_name": "Salim",
+    "quantity": "1 l"
+  },
+  {
+    "brands": "Elle&Vire",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:spreads",
+      "en:salted-spreads",
+      "en:pasteurised-products",
+      "en:pasteurized-cheeses",
+      "en:cheese-spreads"
+    ],
+    "code": "3480341000636",
+    "countries_tags": [
+      "en:france",
+      "en:reunion"
+    ],
+    "labels_tags": [
+      "en:source-of-proteins",
+      "en:french-milk",
+      "en:high-proteins",
+      "en:made-in-france",
+      "fr:triman"
+    ],
+    "packaging": "FEUILLES M\u00c9TAL \u00c0 RECYCLER CONSIGNE POUVANT VARIER LOCALEMENT&gt; WWW.CONSIGNESDETRI.FR, PENSEZ AU TRI ! \u00c9TUI ET BARQUETTE CARTON, Frais",
+    "product_name": "Carr\u00e9 Frais - Nature",
+    "quantity": "200g 8x25g"
+  },
+  {
+    "brands": "gastro mixte",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:desserts",
+      "en:dairy-desserts"
+    ],
+    "code": "6111259093096",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:halal"
+    ],
+    "product_name": "\u0634\u064a\u064a\u0632\u0644\u064a",
+    "quantity": "1000g"
+  },
+  {
+    "brands": "",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:dairies",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:spreads",
+      "en:plant-based-spreads",
+      "en:vegetable-fats",
+      "en:spreadable-fats",
+      "en:animal-fats",
+      "en:dairy-spreads",
+      "en:margarines",
+      "en:milkfat",
+      "en:butters"
+    ],
+    "code": "6111037000599",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:pure-butter"
+    ],
+    "packaging": "verre",
+    "product_name": "Familia 200g",
+    "quantity": "1920 unit (8dh)"
+  },
+  {
+    "brands": "milky foof",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:fromages-blancs-petit-suisses-and-skyr",
+      "fr:fromages-blancs"
+    ],
+    "code": "6111246722039",
+    "countries_tags": [
+      "en:morocco",
+      "en:united-states"
+    ],
+    "product_name": "fromage herbes milky food",
+    "quantity": "1kg"
+  },
+  {
+    "brands": "Le Berger",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:creams",
+      "en:cream-cheeses"
+    ],
+    "code": "6111246721964",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "product_name": "Cream Cheese",
+    "quantity": "900 g"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:milks-liquid-and-powder",
+      "en:dairy-drinks",
+      "en:fermented-drinks",
+      "en:milks",
+      "en:fermented-milk-drinks",
+      "en:plain-fermented-skimmed-milk-drink"
+    ],
+    "code": "6111242101050",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:no-gluten"
+    ],
+    "packaging": "Carton",
+    "product_name": "LBEN CARTON PASTEURISER",
+    "quantity": "450g"
+  },
+  {
+    "brands": "Danone",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:yogurts",
+      "en:produits-ferment\u00e9s",
+      "en:produits-laitiers-ferment\u00e9s"
+    ],
+    "code": "6111032001010",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:fsc",
+      "en:fsc-mix"
+    ],
+    "packaging": "Glass",
+    "product_name": "DANONE ASSIL BANANE",
+    "quantity": "110 g"
+  },
+  {
+    "brands": "St M\u00f4ret",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:spreads",
+      "en:salted-spreads",
+      "en:cheese-spreads"
+    ],
+    "code": "3272770098090",
+    "countries_tags": [
+      "en:france",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-preservatives",
+      "en:source-of-proteins",
+      "en:french-milk",
+      "en:made-in-france",
+      "fr:triman"
+    ],
+    "packaging": "Unknown packaging",
+    "product_name": "St M\u00f4ret",
+    "quantity": "150 g"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:fats",
+      "en:spreads",
+      "en:spreadable-fats",
+      "en:animal-fats",
+      "en:dairy-spreads",
+      "en:milkfat",
+      "en:butters",
+      "en:pasteurized-butters"
+    ],
+    "code": "6111242105331",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "packaging": "Papier",
+    "product_name": "Beurre Frais Pasteuris\u00e9",
+    "quantity": "200g"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:yogurts",
+      "en:sheep-milk-yogurts",
+      "en:greek-style-yogurts"
+    ],
+    "code": "6111242103702",
+    "countries_tags": [
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:halal"
+    ],
+    "packaging": "",
+    "product_name": "Yaourt Grec Muesli",
+    "quantity": "110g"
+  },
+  {
+    "brands": "Reina",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:dairy-drinks",
+      "en:fermented-dairy-desserts",
+      "en:fermented-drinks",
+      "en:fermented-milk-drinks",
+      "en:yogurts",
+      "en:kefir"
+    ],
+    "code": "8424893600352",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:no-gluten"
+    ],
+    "product_name": "k\u00e9fir 500g",
+    "quantity": "500g"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:dairy-drinks",
+      "en:fermented-dairy-desserts",
+      "en:yogurts",
+      "fr:Yaourt \u00e0 boire de grenadine"
+    ],
+    "code": "6111242100930",
+    "countries_tags": [
+      "en:france",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:no-gluten"
+    ],
+    "packaging": "Plastique",
+    "product_name": "\u0631\u0627\u064a\u0628\u064a \u062c\u0648\u062f\u0629",
+    "quantity": "165g"
+  },
+  {
+    "brands": "Elle&Vire",
+    "categories_tags": [
+      "en:dairies",
+      "en:fats",
+      "en:spreads",
+      "en:spreadable-fats",
+      "en:animal-fats",
+      "en:dairy-spreads",
+      "en:milkfat",
+      "en:butters",
+      "en:unsalted-butters",
+      "en:sweet-cream-butters",
+      "en:Butter-82-fat-unsalted-easy-to-spread",
+      "fr:Beurres tendres"
+    ],
+    "code": "3451790988677",
+    "countries_tags": [
+      "en:belgium",
+      "en:canada",
+      "en:france",
+      "en:switzerland",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:green-dot",
+      "en:no-additives",
+      "fr:triman",
+      "en:Fabriqu\u00e9-en-france",
+      "en:M\u00e9daille-d'argent-du-concours-g\u00e9n\u00e9ral-agricole-2009",
+      "en:Point-vert"
+    ],
+    "packaging": "Plastic,Fresh,PP - Polypropylene,Protective gas,Tray,fr:Barquette et couvercle et opercule \u00e0 jeter,fr:Barquette plastique",
+    "product_name": "Le Beurre Tendre",
+    "quantity": "250 g"
+  },
+  {
+    "brands": "jaouda, perly",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses"
+    ],
+    "code": "6111266960336",
+    "countries_tags": [
+      "en:germany",
+      "en:morocco"
+    ],
+    "product_name": "Perly fromage"
+  },
+  {
+    "brands": "alpro",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:dairy-substitutes",
+      "en:desserts",
+      "en:vegan-products",
+      "en:dairy-desserts",
+      "en:non-dairy-desserts",
+      "en:non-dairy-fermented-foods",
+      "en:fermented-dairy-desserts",
+      "en:non-dairy-yogurts",
+      "en:yogurts",
+      "en:vanilla-yogurt",
+      "en:Plantaardige-yoghurt",
+      "en:Plantaardige-yoghurt-met-smaak",
+      "en:Plantaardige-zuivel-alternatieven",
+      "en:Vegan-en-plantaardig",
+      "en:Vegetarisch"
+    ],
+    "code": "5411188103387",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-gluten",
+      "en:no-milk",
+      "en:source-of-proteins",
+      "en:vegan",
+      "en:calcium-source",
+      "en:certified-b-corporation",
+      "en:green-dot",
+      "en:high-proteins",
+      "en:no-palm-oil"
+    ],
+    "packaging": "Pot,Carton,en:Card-sleeve,en:Pp-tub,Papier plastique",
+    "product_name": "Vanille Yoghurt",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Jaouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:yogurts",
+      "en:stirred-yogurts"
+    ],
+    "code": "6111242102002",
+    "countries_tags": [
+      "en:morocco",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "fr:Yaourt"
+    ],
+    "packaging": "plastique",
+    "product_name": "\u063a\u0644\u0627\u0644 \u0627\u0644\u0642\u0645\u062d",
+    "quantity": "110 g"
+  },
+  {
+    "brands": "Danone",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:fermented-dairy-desserts-with-fruits",
+      "en:yogurts",
+      "en:fruit-yogurts",
+      "en:strawberry-yogurts",
+      "en:yogurt-with-fruits-and-sugar"
+    ],
+    "code": "6111032008453",
+    "countries_tags": [
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:calcium-source"
+    ],
+    "product_name": "danino",
+    "quantity": "80"
+  },
+  {
+    "brands": "Paysan Breton, Paysan breton",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:spreads",
+      "en:salted-spreads",
+      "en:cheese-spreads",
+      "en:cheeses-perishable",
+      "en:cream-cheeses",
+      "fr:Fromage fouett\u00e9"
+    ],
+    "code": "3412290070071",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:germany"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-artificial-flavors",
+      "en:no-preservatives",
+      "fr:concours-general-agricole",
+      "en:green-dot",
+      "en:produced-in-brittany",
+      "fr:medaille-d-or-du-concours-general-agricole",
+      "fr:medaille-d-or-du-concours-general-agricole-2018",
+      "fr:medaille-d-or-du-concours-general-agricole-2020",
+      "fr:triman"
+    ],
+    "packaging": "Pot, Bo\u00eete, Couvercle carton, Opercule m\u00e9tal, Pot carton",
+    "product_name": "Fromage \u00e0 tartiner Nature fouett\u00e9 MADAME LOIK - 320g",
+    "quantity": "320 g"
+  },
+  {
+    "brands": "Tendre, jouda",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:fermented-dairy-desserts",
+      "en:yogurts"
+    ],
+    "code": "6111242102781",
+    "countries_tags": [
+      "en:morocco",
+      "en:united-states"
+    ],
+    "product_name": "Tendre nature",
+    "quantity": "110g"
+  },
+  {
+    "brands": "Savencia, St Moret",
+    "categories_tags": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:cheeses",
+      "en:spreads",
+      "en:salted-spreads",
+      "en:cow-cheeses",
+      "en:pasteurised-products",
+      "en:french-cheeses",
+      "en:pasteurized-cheeses",
+      "en:cheese-spreads"
+    ],
+    "code": "3272770097642",
+    "countries_tags": [
+      "en:france",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-preservatives",
+      "en:source-of-proteins",
+      "en:french-milk",
+      "en:high-proteins",
+      "fr:triman",
+      "fr:Charte-des-bonnes-pratiques-d-elevage"
+    ],
+    "packaging": "Plastic, Tray, fr:Caisse",
+    "product_name": "Le Go\u00fbt Primeur format familial",
+    "quantity": "300 g e"
+  },
+  {
+    "brands": "lilia",
+    "categories_tags": [
+      "en:dairies",
+      "en:fats",
+      "en:spreads",
+      "en:spreadable-fats",
+      "en:animal-fats",
+      "en:dairy-spreads",
+      "en:milkfat",
+      "en:butters"
+    ],
+    "code": "6111099005495",
+    "countries_tags": [
+      "en:france",
+      "en:germany",
+      "en:morocco",
+      "en:united-states"
+    ],
+    "product_name": "Mantequilla",
+    "quantity": "8.5 dh"
+  },
+  {
+    "brands": "Dost",
+    "categories_tags": [
+      "en:dairies",
+      "en:milks-liquid-and-powder",
+      "en:milks",
+      "en:homogenized-milks",
+      "en:pasteurised-products",
+      "en:uht-milks",
+      "en:whole-milks",
+      "en:cow-milks"
+    ],
+    "code": "6111250470742",
+    "countries_tags": [
+      "en:morocco"
+    ],
+    "labels_tags": [],
+    "packaging": "",
+    "product_name": "Lait U.H.T entier",
+    "quantity": "1L"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3228857002344",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ],
+    "product_name": "Pain de mie american sandwich complet sans sucres ajout\u00e9s 600g",
+    "quantity": "600 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:sliced-breads-without-crust",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3228857000166",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:luxembourg",
+      "en:martinique",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "Plastique,Sachet,Sachet en plastique",
+    "product_name": "100% mie complet 500g",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads"
+    ],
+    "code": "3228857002245",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:luxembourg"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ble-francais",
+      "fr:triman"
+    ],
+    "product_name": "Pain de mie american sandwich rustique sans sucres ajout\u00e9s 500g",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:white-breads",
+      "en:multigrain-sliced-breads"
+    ],
+    "code": "3228857001194",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "Sachet,Attache",
+    "product_name": "Beau & bon C\u00e9r\u00e9ales & graines",
+    "quantity": "320 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:sliced-breads-without-crust"
+    ],
+    "code": "3228857000852",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:luxembourg",
+      "en:martinique",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Plastique, Sachet, Sachet en plastique, Enveloppe",
+    "product_name": "Pain de mie 100% mie nature",
+    "quantity": "500g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads"
+    ],
+    "code": "3228857002184",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "packaging": "sachet",
+    "product_name": "American sandwich nature",
+    "quantity": "550 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:multigrain-sliced-breads"
+    ],
+    "code": "3228857002221",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:vegan",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "product_name": "American sandwich C\u00e9r\u00e9ales",
+    "quantity": "550 g"
+  },
+  {
+    "brands": "Harry's, Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3228857002351",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ],
+    "product_name": "Pain de mie american sandwich complet sans sucres ajout\u00e9s maxi 900g",
+    "quantity": "900 g"
+  },
+  {
+    "brands": "Lustucru",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:potatoes-and-their-products",
+      "en:pastas",
+      "en:cereal-pastas",
+      "en:gnocchi",
+      "en:gnocchi-of-durum-wheat-semolina",
+      "en:potato-gnocchi"
+    ],
+    "code": "3240931548135",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "product_name": "Lustucru gnocchi a po\u00ealer format xxl 720g",
+    "quantity": "720 g"
+  },
+  {
+    "brands": "La boulangere, la Boulang\u00e8re",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3760049799408",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:nutriscore-grade-a-new-calculation",
+      "fr:agri-ethique-france"
+    ],
+    "product_name": "Complet & Graines",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Gerbl\u00e9",
+    "categories_tags": [
+      "en:snacks",
+      "en:breakfasts",
+      "en:frozen-foods",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:dry-biscuits",
+      "en:breakfast-biscuit"
+    ],
+    "code": "3175681290440",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:nutriscore-grade-a-new-calculation",
+      "fr:ab-agriculture-biologique",
+      "fr:farine-de-ble-francais"
+    ],
+    "packaging": "",
+    "product_name": "Petit D\u00e9j' Fruits Rouges \u00e0 l'\u00c9peautre",
+    "quantity": "132 g"
+  },
+  {
+    "brands": "HERTA, Tarte en or",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:cooking-helpers",
+      "en:pie-dough",
+      "en:baking-mixes",
+      "en:puff-pastry-sheets",
+      "en:frozen-baking-mixes",
+      "en:puff-pastry-with-vegetable-fat",
+      "en:refrigerated-baking-mixes"
+    ],
+    "code": "3154230600183",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:made-in-france",
+      "en:no-additives",
+      "en:no-colorings",
+      "en:nutri-score-c-e",
+      "en:nutriscore",
+      "en:nutriscore-grade-d",
+      "fr:farine-de-ble-francais",
+      "fr:triman",
+      "es:Natural",
+      "fr:100\u00a0% pur beurre",
+      "fr:Selection-coeur-de-ble"
+    ],
+    "packaging": "1 sachet plastique \u00e0 recycler\n1 cartonette \u00e0 recycler\n1 papier cuisson \u00e0 recycler",
+    "product_name": "HERTA TARTE EN OR P\u00e2te Feuillet\u00e9e 230g",
+    "quantity": "230 g"
+  },
+  {
+    "brands": "maroc",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:frozen-foods",
+      "en:carbonated-drinks",
+      "en:sodas",
+      "en:colas",
+      "en:sweetened-beverages",
+      "en:cola's"
+    ],
+    "code": "90338243",
+    "countries_tags": [
+      "en:algeria",
+      "en:belgium",
+      "en:france",
+      "en:morocco"
+    ],
+    "labels_tags": [
+      "en:green-dot"
+    ],
+    "packaging": "Plastic,Fles",
+    "product_name": "Coca-Cola original taste",
+    "quantity": "250 ml"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3228857001101",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:made-in-france",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman",
+      "fr:Fili\u00e8re de bl\u00e9 fran\u00e7aise"
+    ],
+    "packaging": "1 sachet en plastique \u00e0 recycler \n1 lien en plastique et m\u00e9tal \u00e0 recycler",
+    "product_name": "Beau & bon \u00e0 la farine compl\u00e8te de bl\u00e9",
+    "quantity": "320 g"
+  },
+  {
+    "brands": "LA VIE",
+    "categories_tags": [
+      "en:frozen-foods",
+      "en:meat-alternatives",
+      "en:meat-analogues",
+      "en:prepared-meat-cuts-substitutes",
+      "en:ham-substitutes"
+    ],
+    "code": "3770018078144",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-artificial-flavors",
+      "en:vegan",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "product_name": "La Vie Jambon V\u00e9g\u00e9tal",
+    "quantity": "120g"
+  },
+  {
+    "brands": "Pasquier",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:specific-products",
+      "en:cereals-and-their-products",
+      "en:products-for-specific-diets",
+      "en:breads",
+      "en:products-with-reduced-salt",
+      "en:rusks",
+      "en:rusks-without-salt"
+    ],
+    "code": "3182189999805",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:low-or-no-salt",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:no-salt",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "packaging": "",
+    "product_name": "Biscottes sans sel et sans sucre ajout\u00e9s",
+    "quantity": "300 g"
+  },
+  {
+    "brands": "Harry's, Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads"
+    ],
+    "code": "3228857002191",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ],
+    "product_name": "Pain de mie american sandwich nature sans sucres ajout\u00e9s maxi 825g",
+    "quantity": "825 g"
+  },
+  {
+    "brands": "Belin, Mondelez International",
+    "categories_tags": [
+      "en:snacks",
+      "en:frozen-foods",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks"
+    ],
+    "code": "7622202023958",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:distributor-labels",
+      "en:no-preservatives",
+      "en:charte-lu-harmony",
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:no-flavors",
+      "fr:triman"
+    ],
+    "product_name": "Monaco Emmental",
+    "quantity": "110 g e"
+  },
+  {
+    "brands": "Herta",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cooking-helpers",
+      "en:bakery-products",
+      "en:baking-mixes",
+      "en:pizza-dough",
+      "en:frozen-baking-mixes",
+      "en:refrigerated-baking-mixes",
+      "en:thin-crust-pizza-shell"
+    ],
+    "code": "7613035648463",
+    "countries_tags": [
+      "en:france",
+      "en:luxembourg"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:green-dot",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Le tri plus facile. Sachet plastique, Papier de cuisson, Cartonnette, dans le BAC DE TRI.",
+    "product_name": "HERTA P\u00e2te \u00e0 Pizza Fine et Rectangulaire 390g",
+    "quantity": "390 g"
+  },
+  {
+    "brands": "Jardin bio, jardin bio \u00e9tic L\u00e9a Nature",
+    "categories_tags": [
+      "en:snacks",
+      "en:frozen-foods",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:filled-biscuits"
+    ],
+    "code": "3456300014556",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:1-for-the-planet",
+      "en:de-oko-001",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:no-lactose",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-d",
+      "en:pure-cocoa-butter",
+      "fr:ab-agriculture-biologique"
+    ],
+    "packaging": "Box,Cardboard,fr:Film en plastique",
+    "product_name": "Fourr\u00e9s Chocolat\ud83c\udf6b",
+    "quantity": "300 g"
+  },
+  {
+    "brands": "funkie",
+    "categories_tags": [
+      "en:breakfasts",
+      "en:frozen-foods",
+      "en:spreads",
+      "en:sweet-spreads",
+      "fr:pates-a-tartiner",
+      "en:hazelnut-spreads",
+      "en:chocolate-spreads"
+    ],
+    "code": "3760336830357",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "DOM: 19/11/2 LOT:35412203 opte \u00e0 tartiner fait exploser GOURMANDISE O-METRE n Retrouvez-nous sur Instagram: Hunky veggie APR\u00c8S OUVERTURE, CONSERVER AU R\u00c9FRI- G\u00c9RATEUR ET CONSOMMER RAPIDEMENT. peut heurter la sensibilit\u00e9 phic non gourmand. Avant ouverture, \u00e0 conserver \u00e0 temp\u00e9rature ambiante et \u00e0 l'abri de la lumi\u00e8re. R O BAC DE TRI O TRI VERRE Pour une texture lisse et brillante, Funky Veggie m\u00e9langer OUF! \u00e0 la cuill\u00e8re. 760336&quot;830357 26 rue des Sablons 95360 Montmagny - France Compar\u00e9 \u00e0 la moyenne des p\u00e2tes \u00e0 tartiner. Poids net ant\u00e8res grasses naturellement jesuisfunky@funkyveggie.fr ingr\u00e9dients. 200ge 3",
+    "product_name": "P\u00e2te \u00e0 tartiner pralin\u00e9",
+    "quantity": "200g"
+  },
+  {
+    "brands": "Findus",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fruits-and-vegetables-based-foods",
+      "en:vegetable-based-foods-and-beverages",
+      "en:frozen-foods",
+      "en:vegetables-based-foods",
+      "en:frozen-plant-based-foods",
+      "en:prepared-vegetables",
+      "en:frozen-vegetables",
+      "en:prepared-spinachs",
+      "en:spinach-with-cream-sauce"
+    ],
+    "code": "3599741006312",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:sustainable-farming",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:pefc",
+      "fr:triman"
+    ],
+    "packaging": "Bo\u00eete carton PEFC",
+    "product_name": "Epinards hach\u00e9s \u00e0 la cr\u00e8me fra\u00eeche",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "St Michel",
+    "categories_tags": [
+      "en:snacks",
+      "en:frozen-foods",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:cakes",
+      "en:pound-cake",
+      "en:madeleines"
+    ],
+    "code": "3178530423815",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:low-or-no-sugar",
+      "en:low-sugar",
+      "en:reduced-sugar",
+      "en:30-less-sugar",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-c",
+      "fr:farine-de-ble-francais",
+      "fr:triman"
+    ],
+    "product_name": "Petites Madeleines  -30% de sucres",
+    "quantity": "400 g"
+  },
+  {
+    "brands": "Carte D'Or, Les Essentiels, Unilever",
+    "categories_tags": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "code": "8711327615380",
+    "countries_tags": [
+      "en:belgium",
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:french-milk",
+      "en:pefc",
+      "en:rainforest-alliance",
+      "fr:triman"
+    ],
+    "product_name": "Cr\u00e8me glac\u00e9e Vanille de Madagascar",
+    "quantity": "367 g"
+  },
+  {
+    "brands": "Findus",
+    "categories_tags": [
+      "en:seafood",
+      "en:fishes-and-their-products",
+      "en:frozen-foods",
+      "en:breaded-products",
+      "en:fish-preparations",
+      "en:frozen-seafood",
+      "en:breaded-fish",
+      "en:breaded-hake-fish"
+    ],
+    "code": "3599741003380",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:sustainable",
+      "en:sustainable-fishery",
+      "en:no-preservatives",
+      "en:green-dot",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "en:sustainable-seafood-msc",
+      "fr:100-filet",
+      "fr:Cuisin\u00e9 en Angleterre"
+    ],
+    "packaging": "Bo\u00eete, Carton, Surgel\u00e9",
+    "product_name": "Colin d'Alaska MSC fa\u00e7on Fish & Chips",
+    "quantity": "400g (4 x 100g)"
+  },
+  {
+    "brands": "Croustibat",
+    "categories_tags": [
+      "en:seafood",
+      "en:fishes-and-their-products",
+      "en:fishes",
+      "en:frozen-foods",
+      "en:breaded-products",
+      "en:fish-fillets",
+      "en:fish-preparations",
+      "en:lean-fishes",
+      "en:cods",
+      "en:breaded-fish",
+      "en:breaded-hake-fish",
+      "en:fish-fingers"
+    ],
+    "code": "3599741006305",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:sustainable",
+      "en:sustainable-fishery",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:sustainable-seafood-msc"
+    ],
+    "packaging": "",
+    "product_name": "Croustibat",
+    "quantity": "540 g"
+  },
+  {
+    "brands": "ACTIVIA",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:dairy-desserts",
+      "en:dairy-drinks",
+      "en:fermented-dairy-desserts",
+      "en:fermented-drinks",
+      "en:fermented-milk-drinks",
+      "en:yogurts",
+      "en:kefir"
+    ],
+    "code": "3033491993138",
+    "countries_tags": [
+      "en:belgium",
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:nutriscore-grade-b"
+    ],
+    "product_name": "K\u00e9fir Doux Nature",
+    "quantity": "280 g"
+  },
+  {
+    "brands": "Herta",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cooking-helpers",
+      "en:bakery-products",
+      "en:baking-mixes",
+      "en:pizza-dough",
+      "en:frozen-baking-mixes",
+      "en:refrigerated-baking-mixes",
+      "en:thin-crust-pizza-shell",
+      "en:P\u00e2tes \u00e0 pizza"
+    ],
+    "code": "7613035648494",
+    "countries_tags": [
+      "en:belgium",
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:green-dot",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "en:nutriscore-grade-c",
+      "fr:herta-s-engage",
+      "fr:triman"
+    ],
+    "packaging": "Plastique,Frais",
+    "product_name": "HERTA P\u00e2te \u00e0 Pizza Fine et Ronde 265g",
+    "quantity": "265 g"
+  },
+  {
+    "brands": "La Boulang\u00e8re Bio, La boulangere",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sliced-breads",
+      "en:packaged-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3760049797909",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:1-for-the-planet",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:no-added-sugar",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ab-agriculture-biologique",
+      "fr:agri-ethique-france"
+    ],
+    "packaging": "Plastique, Sachet",
+    "product_name": "Pain de mie Bio petites tranches complet & levain sans sucres ajout\u00e9s 280g",
+    "quantity": "280 g"
+  },
+  {
+    "brands": "Lidl, Sondey",
+    "categories_tags": [
+      "en:snacks",
+      "en:frozen-foods",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:chocolate-biscuits"
+    ],
+    "code": "4056489369134",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:rainforest-alliance",
+      "fr:triman"
+    ],
+    "packaging": "fr:Etui carton \u00e0 recycler,fr:Film plastique \u00e0 jeter,fr:Pensez au tri!,fr:Triman",
+    "product_name": "Biscuits Germe de Bl\u00e9 et P\u00e9pites de Chocolat",
+    "quantity": "200 g, 4 pochons de 5 biscuits"
+  },
+  {
+    "brands": "Terres et C\u00e9r\u00e9ales",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:chocolate-cereals",
+      "en:mueslis",
+      "en:mueslis-with-chocolate"
+    ],
+    "code": "3421557502767",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:source-of-fibre",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:high-fibres",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-b"
+    ],
+    "packaging": "",
+    "product_name": "Muesli au chocolat",
+    "quantity": "900 g"
+  },
+  {
+    "brands": "Jordans",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:chocolate-cereals",
+      "en:mueslis",
+      "en:mueslis-with-chocolate"
+    ],
+    "code": "5010477360755",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "packaging": "",
+    "product_name": "Granola chocolat noir - faible en sucre",
+    "quantity": "400g"
+  },
+  {
+    "brands": "C\u00e9r\u00e9al BIO",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:meals",
+      "en:cereals-and-their-products",
+      "en:pasta-dishes",
+      "en:pastas",
+      "en:noodles",
+      "en:chinese-noodles",
+      "en:microwave-meals",
+      "en:pad-thai"
+    ],
+    "code": "3175681259089",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-10",
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ab-agriculture-biologique",
+      "fr:triman"
+    ],
+    "packaging": "Film en plastique, Sachet plastique",
+    "product_name": "c\u00e9r\u00e9ales et l\u00e9gumes, fa\u00e7on pad tha\u00ef, bio",
+    "quantity": "220g"
+  },
+  {
+    "categories_tags": [
+      "en:snacks",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries",
+      "en:frozen-desserts",
+      "en:chocolate-candies",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "code": "6111255771196",
+    "countries_tags": [
+      "en:germany",
+      "en:morocco"
+    ],
+    "product_name": "Noisetta"
+  },
+  {
+    "brands": "Carrefour BIO, Carrefour",
+    "categories_tags": [
+      "en:snacks",
+      "en:frozen-foods",
+      "en:sweet-snacks",
+      "en:bars",
+      "en:cereal-bars",
+      "en:chocolate-cereal-bars"
+    ],
+    "code": "3560071269494",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:italy",
+      "en:morocco",
+      "en:spain"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:eu-agriculture",
+      "en:fr-bio-10",
+      "en:nutriscore",
+      "en:nutriscore-grade-d",
+      "fr:ab-agriculture-biologique",
+      "en:agriculture-ue/non-ue",
+      "en:bio-europ\u00e9en",
+      "en:point-vert"
+    ],
+    "packaging": "Sachet individuel,Cartons",
+    "product_name": "Barre C\u00e9r\u00e9ales CHOCOLAT",
+    "quantity": "138 g (6 x 23 g)"
+  },
+  {
+    "brands": "Liebig",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fruits-and-vegetables-based-foods",
+      "en:frozen-foods",
+      "en:meals",
+      "en:soups",
+      "en:vegetable-soups",
+      "en:cream-soups",
+      "en:cream-of-vegetable-soups",
+      "en:Velout\u00e9 de l\u00e9gumes"
+    ],
+    "code": "3036811368029",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:made-in-france"
+    ],
+    "packaging": "Brique, Brique en carton",
+    "product_name": "Velout\u00e9 de 12 legumes",
+    "quantity": "1 L"
+  },
+  {
+    "brands": "RIGONI DI ASIAGO",
+    "categories_tags": [
+      "en:breakfasts",
+      "en:frozen-foods",
+      "en:spreads",
+      "en:sweet-spreads",
+      "fr:pates-a-tartiner",
+      "en:chocolate-spreads"
+    ],
+    "code": "8052575090278",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:no-gluten",
+      "en:organic",
+      "en:eu-organic",
+      "en:kosher"
+    ],
+    "product_name": "Nocciolata P\u00e2te \u00e0 tartiner Cacao  et Noisettes",
+    "quantity": "835 g"
+  },
+  {
+    "brands": "Marie",
+    "categories_tags": [
+      "en:frozen-foods",
+      "en:meals",
+      "en:fresh-foods",
+      "en:pasta-dishes",
+      "en:combination-meals",
+      "en:fresh-meals",
+      "en:frozen-ready-made-meals",
+      "en:meals-with-shellfish",
+      "en:microwave-meals",
+      "fr:Plats \u00e0 base de crustac\u00e9s"
+    ],
+    "code": "3166352967211",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:cooked-in-france",
+      "en:no-colorings",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "1 \u00e9tui en carton \u001f \u00e0 recycler \n1 barquette en plastique \u00e0 recycler \n1 film en plastique \u00e0 recycler",
+    "product_name": "Petites gambas compot\u00e9e de tomates Tagliatelles au pesto",
+    "quantity": "280 g e"
+  },
+  {
+    "brands": "Giovanni Rana",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:frozen-foods",
+      "en:meals",
+      "en:pasta-dishes",
+      "en:pastas",
+      "en:stuffed-pastas",
+      "en:ravioli",
+      "en:fresh-pasta-stuffed-with-cheese-and-vegetables"
+    ],
+    "code": "8001665725712",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:no-artificial-flavors",
+      "en:no-preservatives",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:nutriscore",
+      "en:nutriscore-grade-c",
+      "fr:triman"
+    ],
+    "product_name": "Girasoli Pesto basilic et pignons",
+    "quantity": "250 g e"
+  },
+  {
+    "brands": "Pierre Martinet",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fruits-and-vegetables-based-foods",
+      "en:vegetable-based-foods-and-beverages",
+      "en:frozen-foods",
+      "en:meals",
+      "en:vegetables-based-foods",
+      "en:vegetables",
+      "en:prepared-vegetables",
+      "en:carrots",
+      "en:carrot-salads",
+      "en:grated-carrots",
+      "en:seasoned-grated-carrots"
+    ],
+    "code": "3281780894950",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:green-dot",
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ],
+    "packaging": "Barquette plastique",
+    "product_name": "Mes Carottes r\u00e2p\u00e9es \u00e0 la ciboulette",
+    "quantity": "510 g"
+  },
+  {
+    "brands": "Lipton",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:beverages",
+      "en:frozen-foods",
+      "en:artificially-sweetened-beverages",
+      "en:still-soft-drinks",
+      "en:tea-based-beverages",
+      "en:iced-teas",
+      "en:peach-flavored-iced-teas",
+      "en:still-soft-drink-with-tea-extract",
+      "en:sweetened-beverages"
+    ],
+    "code": "3168930171058",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:rainforest-alliance",
+      "fr:triman",
+      "fr:Bouteille enti\u00e8rement recyclable",
+      "fr:Faible-en-calories"
+    ],
+    "product_name": "P\u00eache Ice Tea",
+    "quantity": "1750 ml"
+  },
+  {
+    "brands": "Ocean Spray",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:frozen-foods",
+      "en:plant-based-beverages",
+      "en:fruit-based-beverages",
+      "en:beverages-with-cranberry",
+      "en:sweetened-beverages"
+    ],
+    "code": "1200101017825",
+    "countries_tags": [
+      "en:belgium",
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:vegan",
+      "fr:triman"
+    ],
+    "packaging": "Bouteille en plastique",
+    "product_name": "PET 1L OCEAN SPRAY CLASS",
+    "quantity": "1 L"
+  },
+  {
+    "brands": "Ben & Jerry's",
+    "categories_tags": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup"
+    ],
+    "code": "8711327373105",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:fairtrade-international",
+      "en:halal",
+      "en:kosher",
+      "en:halal-food-authority"
+    ],
+    "packaging": "Pot,Film,Wrapper,St\u00fcck,Tub,Pot en carton,compostable-pot,carton,",
+    "product_name": "Cookie Dough Vanilla Ice Cream with Chunks of Chocolate Chip Cookie Dough",
+    "quantity": "406 g"
+  },
+  {
+    "brands": "Picard",
+    "categories_tags": [
+      "en:frozen-foods",
+      "en:meals",
+      "en:meats-and-their-products",
+      "en:combination-meals",
+      "en:meals-with-meat",
+      "en:rice-dishes",
+      "en:frozen-ready-made-meals",
+      "en:paella",
+      "en:Pa\u00eblla surgel\u00e9e",
+      "en:Plats \u00e0 la volaille",
+      "en:Produits \u00e0 la viande"
+    ],
+    "code": "3270160697861",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Surgel\u00e9,Sac plastique",
+    "product_name": "Pa\u00eblla \u00e0 la Valenciana",
+    "quantity": "900 g"
+  },
+  {
+    "brands": "Choco nussa",
+    "categories_tags": [
+      "en:breakfasts",
+      "en:frozen-foods",
+      "en:spreads",
+      "en:sweet-spreads",
+      "fr:pates-a-tartiner",
+      "en:hazelnut-spreads",
+      "en:chocolate-spreads",
+      "en:cocoa-and-hazelnuts-spreads"
+    ],
+    "code": "4056489891130",
+    "countries_tags": [
+      "en:bulgaria",
+      "en:france",
+      "en:romania"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:it-bio-006",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-d",
+      "en:rainforest-alliance",
+      "fr:ab-agriculture-biologique",
+      "fr:triman"
+    ],
+    "product_name": "P\u00e2te \u00e0 tartiner cacao noisettes bio",
+    "quantity": "350 g"
+  },
+  {
+    "brands": "Picard",
+    "categories_tags": [
+      "en:seafood",
+      "en:fishes-and-their-products",
+      "en:frozen-foods",
+      "en:breaded-products",
+      "en:fish-preparations",
+      "en:breaded-fish",
+      "en:breaded-cod-fish"
+    ],
+    "code": "3270160193301",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:sustainable",
+      "en:sustainable-fishery",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:sustainable-seafood-msc",
+      "fr:triman"
+    ],
+    "packaging": "Surgel\u00e9,Boite carton",
+    "product_name": "4 filets de cabillaud panure croustillante",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "McCain",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:chips-and-fries",
+      "en:potatoes-and-their-products",
+      "en:frozen-fried-potatoes",
+      "en:potato-fries",
+      "en:frozen-potato-fries"
+    ],
+    "code": "8710438116281",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-preservatives",
+      "en:vegan",
+      "en:european-vegetarian-union",
+      "en:european-vegetarian-union-vegan",
+      "en:nutriscore",
+      "en:nutriscore-grade-b"
+    ],
+    "packaging": "",
+    "product_name": "Frites de patate douce",
+    "quantity": "500g"
+  },
+  {
+    "brands": "Picard",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:meals",
+      "en:potatoes-and-their-products",
+      "en:pastas",
+      "en:combination-meals",
+      "en:frozen-ready-made-meals",
+      "en:gnocchi",
+      "en:pan-fried-dishes",
+      "en:microwave-meals",
+      "en:potato-gnocchi",
+      "fr:Gnocchis surgel\u00e9s"
+    ],
+    "code": "3270160860333",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Plastique, Sachet, Surgel\u00e9",
+    "product_name": "Po\u00eal\u00e9e de gnocchis (tomates, mozzarella)",
+    "quantity": "900 g"
+  },
+  {
+    "brands": "Bonduelle",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fruits-and-vegetables-based-foods",
+      "en:vegetable-based-foods-and-beverages",
+      "en:frozen-foods",
+      "en:meals",
+      "en:vegetables-based-foods",
+      "en:frozen-plant-based-foods",
+      "en:frozen-vegetables",
+      "en:pan-fried-dishes",
+      "en:Vegetables - Prepared/Processed (Frozen)",
+      "fr:Po\u00eal\u00e9es m\u00e9diterran\u00e9enne"
+    ],
+    "code": "3083681117011",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-preservatives",
+      "en:vegan",
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ],
+    "packaging": "Plastic,Frozen,fr:Sachet en plastique",
+    "product_name": "Po\u00eal\u00e9e M\u00e9diterran\u00e9enne 750g",
+    "quantity": "750 g"
+  },
+  {
+    "brands": "Vico",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:potatoes-and-their-products",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "code": "3336972006014",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-c"
+    ],
+    "packaging": "Sachet plastique",
+    "product_name": "L'extra craquante nature",
+    "quantity": "150 g"
+  },
+  {
+    "brands": "La Boulang\u00e8re, La Boulang\u00e8re Bio",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sliced-breads",
+      "en:packaged-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3760049790214",
+    "countries_tags": [
+      "en:france",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:nutriscore-grade-a-new-calculation",
+      "fr:ab-agriculture-biologique",
+      "fr:agri-ethique-france",
+      "fr:triman",
+      "en:1% pour la plan\u00e8te",
+      "en:Commerce \u00e9quitable",
+      "en:Fabriqu\u00e9 en France",
+      "en:Farine de bl\u00e9 fran\u00e7ais",
+      "en:V\u00e9g\u00e9tarien"
+    ],
+    "packaging": "fr:Clip en plastique,fr:Sachet en plastique",
+    "product_name": "Pain De Mie Bio",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "la Boulang\u00e8re",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sliced-breads"
+    ],
+    "code": "3760049798609",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:fair-trade",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:agri-ethique-france",
+      "fr:ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "Sec,Fermoir plastique,Sachet plastique",
+    "product_name": "Pain de mie grandes tranches Seigle & Graines 500g",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Quaker",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:mueslis",
+      "en:cereals-with-nuts",
+      "en:crunchy-cereal-clusters",
+      "en:cereal-clusters-with-nuts"
+    ],
+    "code": "3168930010265",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:germany",
+      "en:guadeloupe",
+      "en:italy",
+      "en:luxembourg",
+      "en:martinique",
+      "en:netherlands",
+      "en:reunion",
+      "en:slovenia",
+      "en:spain",
+      "en:switzerland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:no-artificial-flavors",
+      "en:no-preservatives",
+      "en:green-dot",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "packaging": "Sachet,Bo\u00eete",
+    "product_name": "cruesly m\u00e9lange de noix",
+    "quantity": "450 g"
+  },
+  {
+    "brands": "Ekibio, Le pain des Fleurs",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:extruded-crispbreads"
+    ],
+    "code": "06175700",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:luxembourg",
+      "en:morocco",
+      "en:netherlands",
+      "en:senegal",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:no-gluten",
+      "en:organic",
+      "en:crossed-grain-trademark",
+      "en:eu-organic",
+      "en:kosher",
+      "en:vegan",
+      "en:green-dot",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:the-vegan-society",
+      "fr:ab-agriculture-biologique",
+      "fr:afdiag"
+    ],
+    "packaging": "Plastic,Cardboard",
+    "product_name": "Tartines craquantes au sarrasin imp",
+    "quantity": "160 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3228857002344",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ],
+    "product_name": "Pain de mie american sandwich complet sans sucres ajout\u00e9s 600g",
+    "quantity": "600 g"
+  },
+  {
+    "brands": "KRISPROLLS",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:rusks",
+      "en:toasts",
+      "en:toasted-bread-rolls",
+      "fr:Petit pain grill\u00e9 su\u00e9dois sans sucre",
+      "fr:Petit-pain-suedois-sans-sucre"
+    ],
+    "code": "7311070032611",
+    "countries_tags": [
+      "en:france",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:sustainable",
+      "en:no-preservatives",
+      "en:source-of-fibre",
+      "en:sustainable-palm-oil",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:roundtable-on-sustainable-palm-oil",
+      "fr:triman"
+    ],
+    "packaging": "1 Sachet en papier \u00e0 recycler",
+    "product_name": "KRISPROLLS Complets",
+    "quantity": "425 g"
+  },
+  {
+    "brands": "Jacquet",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sliced-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3029330022428",
+    "countries_tags": [
+      "en:france",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:low-or-no-sugar",
+      "en:vegetarian",
+      "en:vegan",
+      "en:no-added-sugar",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ble-francais",
+      "fr:farine-de-ble-francais",
+      "fr:origine-france",
+      "fr:triman",
+      "en:Sachet-recyclable"
+    ],
+    "packaging": "Plastic,Bag,Clip en plastique,Enveloppe",
+    "product_name": "14 Maxi Tranches complet sans sucres ajout\u00e9s",
+    "quantity": "550 g"
+  },
+  {
+    "brands": "La Boulang\u00e8re Bio, La boulangere",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sliced-breads",
+      "en:multigrain-sliced-breads",
+      "en:packaged-breads"
+    ],
+    "code": "3760049794298",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic"
+    ],
+    "packaging": "Plastique,Sachet,Film en plastique,Sachet plastique et fermoir \u00e0 jeter",
+    "product_name": "Pain de mie Bio grandes tranches c\u00e9r\u00e9ales & graines 500g",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "wasa, WAZA",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:breads",
+      "en:crisps",
+      "en:rusks",
+      "en:crispbreads",
+      "fr:Pain croquant"
+    ],
+    "code": "7300400481595",
+    "countries_tags": [
+      "en:france",
+      "en:italy",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:green-dot",
+      "fr:triman"
+    ],
+    "packaging": "Papier,Enveloppe,en:Package paper,en:Paper recycling",
+    "product_name": "AUTHENTIQUE",
+    "quantity": "275 g"
+  },
+  {
+    "brands": "wasa",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:breads",
+      "en:crisps",
+      "en:extruded-crispbreads",
+      "en:crispbreads",
+      "en:crispbreads-wholemeal",
+      "en:extruded-and-grilled-crispbread"
+    ],
+    "code": "7300400481588",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:guadeloupe",
+      "en:italy",
+      "en:monaco",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:green-dot",
+      "en:high-fibres",
+      "fr:triman",
+      "fr:Emballage-recyclable"
+    ],
+    "packaging": "Carta,Busta",
+    "product_name": "Fibres",
+    "quantity": "230 g"
+  },
+  {
+    "brands": "Bjorg",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:chocolate-cereals",
+      "en:breakfast-cereals-rich-in-fibre",
+      "en:crunchy-cereal-clusters",
+      "en:cereal-clusters-with-chocolate"
+    ],
+    "code": "3229820160672",
+    "countries_tags": [
+      "en:france",
+      "en:morocco",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:ab-agriculture-biologique",
+      "fr:triman",
+      "fr:Entreprise-b",
+      "fr:Planet"
+    ],
+    "packaging": "Bag",
+    "product_name": "Croustillant Chocolat",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "la Boulang\u00e8re",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:pains-de-campagne",
+      "fr:Pain de mie de campagne"
+    ],
+    "code": "3760049791006",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:fair-trade",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:agri-ethique-france",
+      "fr:farine-de-ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "Sachet plastique",
+    "product_name": "tartine de campagne",
+    "quantity": "450 g"
+  },
+  {
+    "brands": "BJORG",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:flakes",
+      "en:cereal-flakes",
+      "en:rolled-flakes",
+      "en:rolled-oats"
+    ],
+    "code": "3229820019307",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:germany",
+      "en:morocco",
+      "en:new-caledonia",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:certified-by-ecocert",
+      "en:eu-organic",
+      "en:source-of-fibre",
+      "en:certified-b-corporation",
+      "en:de-oko-001",
+      "en:eu-agriculture",
+      "en:high-fibres",
+      "en:made-in-germany",
+      "fr:ab-agriculture-biologique",
+      "fr:triman",
+      "fr:Riche en magn\u00e9sium"
+    ],
+    "packaging": "pet-bottle, hdpe-cap, en:paper-carton",
+    "product_name": "Flocons d'avoine",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Bjorg",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:cereals-with-fruits",
+      "en:mueslis",
+      "en:mueslis-with-fruits"
+    ],
+    "code": "3229820129488",
+    "countries_tags": [
+      "en:belgium",
+      "en:cote-d-ivoire",
+      "en:france",
+      "en:french-polynesia",
+      "en:guadeloupe",
+      "en:italy",
+      "en:martinique",
+      "en:morocco",
+      "en:new-caledonia",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:certified-by-ecocert",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:source-of-fibre",
+      "en:certified-b-corporation",
+      "en:de-oko-001",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:gb-org-05",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:planet-score",
+      "fr:ab-agriculture-biologique",
+      "fr:C\u00e9r\u00e9ales compl\u00e8tes",
+      "fr:Planet Score A"
+    ],
+    "packaging": "",
+    "product_name": "Muesli Raisin, Figue, Abricot",
+    "quantity": "375 g"
+  },
+  {
+    "brands": "Nestl\u00e9, Chocapic",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:chocolate-cereals",
+      "en:breakfast-cereals-fortified-with-vitamins-and-chemical-elements",
+      "en:extruded-cereals",
+      "en:chocolate-wheat-shells",
+      "en:unfilled-breakfast-chocolate-cereals-fortified-with-vitamins-and-chemical-elements"
+    ],
+    "code": "3387390123210",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:guadeloupe",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:nutriscore-grade-b",
+      "en:rainforest-alliance",
+      "fr:triman"
+    ],
+    "product_name": "Chocapic",
+    "quantity": "375 g"
+  },
+  {
+    "brands": "Jordans",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:cereals-with-fruits",
+      "en:mueslis",
+      "en:mueslis-with-fruits"
+    ],
+    "code": "5010477348678",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:germany",
+      "en:italy",
+      "en:martinique",
+      "en:monaco",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:low-or-no-salt",
+      "en:vegetarian",
+      "en:no-artificial-flavors",
+      "en:no-preservatives",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:iron-source",
+      "en:magnesium-source",
+      "en:no-added-salt",
+      "en:no-added-sugar",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:phosphore-source",
+      "en:rich-in-vitamin-b1",
+      "fr:triman",
+      "fr:Source-de-potassium"
+    ],
+    "packaging": "Etui en carton,Sachet en plastique,Sachet en plastique \u00e0 jeter,\u00c9tui en carton \u00e0 recycler",
+    "product_name": "Special Muesli 30% fruits & noix",
+    "quantity": "750 g"
+  },
+  {
+    "brands": "Bjorg",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:cereals-with-fruits",
+      "en:mueslis",
+      "en:mueslis-with-fruits"
+    ],
+    "code": "3229820782560",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:martinique",
+      "en:mexico",
+      "en:morocco",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:certified-by-ecocert",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:source-of-fibre",
+      "en:de-oko-001",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:green-dot",
+      "en:high-fibres",
+      "en:made-in-germany",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ab-agriculture-biologique",
+      "fr:Entreprise Certifi\u00e9e B"
+    ],
+    "packaging": "fr:Sachet plastique \u00e0 jeter",
+    "product_name": "Muesli Superfruits Raisins, cassis, cranberry, myrtille",
+    "quantity": "375g"
+  },
+  {
+    "brands": "alpro",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:dairy-substitutes",
+      "en:cereals-and-their-products",
+      "en:milk-substitutes",
+      "en:plant-based-beverages",
+      "en:plant-based-milk-alternatives",
+      "en:cereal-based-drinks",
+      "en:unsweetened-beverages",
+      "en:oat-based-drinks",
+      "en:Plant-based milk substitutes"
+    ],
+    "code": "5411188124689",
+    "countries_tags": [
+      "en:netherlands"
+    ],
+    "labels_tags": [
+      "en:low-or-no-sugar",
+      "en:vegetarian",
+      "en:no-artificial-sweeteners",
+      "en:no-milk",
+      "en:no-preservatives",
+      "en:source-of-fibre",
+      "en:vegan",
+      "en:calcium-source",
+      "en:certified-b-corporation",
+      "en:european-vegetarian-union",
+      "en:european-vegetarian-union-vegan",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:green-dot",
+      "en:high-fibres",
+      "en:no-colorings",
+      "en:no-dyes-or-preservatives",
+      "en:no-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:vitamin-b2-source",
+      "es:recicla-amarillo",
+      "es:recicla-marron",
+      "pt:fonte-de-vitamina-d2"
+    ],
+    "packaging": "Tetra Pak,Composite-carton,Tetra Brik Aseptic,hu:Produkt",
+    "product_name": "Oat No Sugars",
+    "quantity": "1 L"
+  },
+  {
+    "brands": "Bjorg",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:dairy-substitutes",
+      "en:cereals-and-their-products",
+      "en:milk-substitutes",
+      "en:plant-based-beverages",
+      "en:plant-based-milk-alternatives",
+      "en:cereal-based-drinks",
+      "en:oat-based-drinks",
+      "en:unsweetened-beverages",
+      "fr:Boissons-vegetales-a-base-d-avoine"
+    ],
+    "code": "3229820792132",
+    "countries_tags": [
+      "en:france",
+      "en:mauritius",
+      "en:morocco",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:certified-b-corporation",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:green-dot",
+      "en:it-bio-005",
+      "en:it-bio-006",
+      "en:it-bio-007",
+      "en:made-in-italy",
+      "en:made-in-spain",
+      "en:new-recipe",
+      "en:no-added-sugar",
+      "en:planet-score",
+      "en:planet-score-grade-a",
+      "fr:ab-agriculture-biologique",
+      "fr:triman",
+      "en:Es-eco-033-cl"
+    ],
+    "packaging": "Tetra Pak, Brick, Cardboard, fr:Brique carton et son bouchon \u00e0 recycler, fr:Brique en carton, fr:Pensez au tri!, fr:Point vert, nl:FSC C014047, nl:FSC Mixte, nl:Foodsafe, nl:Tetra Brik Aseptic",
+    "product_name": "Avoine - Boisson biologique",
+    "quantity": "1l"
+  },
+  {
+    "brands": "Nestl\u00e9, Chocapic",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:chocolate-cereals",
+      "en:breakfast-cereals-fortified-with-vitamins-and-chemical-elements",
+      "en:extruded-cereals",
+      "en:breakfast-cereals-rich-in-fibre",
+      "en:chocolate-wheat-shells"
+    ],
+    "code": "7613036669146",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:luxembourg",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:organic",
+      "en:eu-organic",
+      "en:rainforest-alliance",
+      "fr:triman"
+    ],
+    "packaging": "Caixa,Cart\u00e3o,fr:Conteneur,fr:Etui en carton,fr:Film en plastique,fr:Sachet plastique",
+    "product_name": "NESTLE CHOCAPIC BIO C\u00e9r\u00e9ales - Boite de 375g",
+    "quantity": "375 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:sliced-breads-without-crust",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3228857000166",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:luxembourg",
+      "en:martinique",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "Plastique,Sachet,Sachet en plastique",
+    "product_name": "100% mie complet 500g",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Weetabix",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:breakfast-cereals-rich-in-fibre",
+      "fr:Weetabix"
+    ],
+    "code": "5010029000023",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:germany",
+      "en:hong-kong",
+      "en:japan",
+      "en:luxembourg",
+      "en:morocco",
+      "en:netherlands",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland",
+      "en:taiwan",
+      "en:united-kingdom",
+      "en:united-states"
+    ],
+    "labels_tags": [
+      "en:low-or-no-fat",
+      "en:low-or-no-sugar",
+      "en:vegetarian",
+      "en:low-fat",
+      "en:low-sugar",
+      "en:source-of-fibre",
+      "en:vegan",
+      "en:green-dot",
+      "en:high-fibres",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman",
+      "fr:100\u00a0% Bl\u00e9 Complet",
+      "fr:Contient-de-l-acide-folique"
+    ],
+    "packaging": "Cardboard",
+    "product_name": "weetabix",
+    "quantity": "430g"
+  },
+  {
+    "brands": "La Boulang\u00e8re Bio, La boulangere",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:sweet-snacks",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:milk-bread-rolls"
+    ],
+    "code": "3284230011884",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic",
+      "en:free-range",
+      "en:no-artificial-flavors",
+      "en:non-eu-agriculture",
+      "en:1-for-the-planet",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fair-trade-organic",
+      "en:fr-bio-01",
+      "en:free-range-eggs",
+      "en:french-eggs",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:ab-agriculture-biologique",
+      "fr:agri-ethique-france",
+      "fr:farine-de-ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "Clip en plastique,Film en plastique",
+    "product_name": "8 Pains au lait frais Bio 280g",
+    "quantity": "280 g"
+  },
+  {
+    "brands": "wasa",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:breads",
+      "en:crisps",
+      "en:extruded-crispbreads",
+      "en:crispbreads",
+      "en:crispbreads-wholemeal",
+      "en:extruded-and-grilled-crispbread"
+    ],
+    "code": "7300400481571",
+    "countries_tags": [
+      "en:france",
+      "en:guadeloupe",
+      "en:italy",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "fr:triman",
+      "fr:Co2-compensated"
+    ],
+    "packaging": "Papier",
+    "product_name": "wasa",
+    "quantity": "270 g"
+  },
+  {
+    "brands": "Ma\u00eetre Jean Pierre",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sliced-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "4056489007180",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:contains-alcohol",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Sachet,Attache",
+    "product_name": "pain de mie grandes tranches sp\u00e9cial sandwich complet",
+    "quantity": "750 g"
+  },
+  {
+    "brands": "Jardin Bio",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:extruded-crispbreads"
+    ],
+    "code": "06153153",
+    "countries_tags": [
+      "en:france",
+      "en:reunion"
+    ],
+    "labels_tags": [
+      "en:no-gluten",
+      "en:organic",
+      "en:crossed-grain-trademark",
+      "en:eu-organic",
+      "en:1-for-the-planet",
+      "en:dzg-gluten-free",
+      "en:fr-bio-01",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ab-agriculture-biologique",
+      "fr:triman"
+    ],
+    "packaging": "",
+    "product_name": "Tartines craquantes quinoa - pois chiche sans gluten",
+    "quantity": ""
+  },
+  {
+    "brands": "Jordans",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:breakfast-cereals-rich-in-fibre",
+      "en:cereals-with-nuts",
+      "en:crunchy-cereal-clusters",
+      "en:cereal-clusters-with-nuts"
+    ],
+    "code": "5010477348357",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:guadeloupe",
+      "en:italy",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:low-or-no-salt",
+      "en:sustainable",
+      "en:vegetarian",
+      "en:no-artificial-flavors",
+      "en:no-gmos",
+      "en:no-preservatives",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:no-added-salt",
+      "en:no-artificial-additives",
+      "en:no-colorings",
+      "en:no-dyes-or-preservatives",
+      "en:no-palm-oil",
+      "fr:triman"
+    ],
+    "packaging": "Plastique,Sachet,Carton,\u00c9tui,FSC Recycl\u00e9",
+    "product_name": "Country Crisp 4 noix",
+    "quantity": "550 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:sweet-snacks",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:brioches",
+      "fr:brioches-tressees",
+      "en:packaged-breads",
+      "en:pure-butter-brioche",
+      "fr:Brioches natures"
+    ],
+    "code": "3228857001231",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Sachet, Enveloppe, Sachet en plastique",
+    "product_name": "Harrys brioche tressee nature au sucre perle sans additifs 500g",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads"
+    ],
+    "code": "3228857002245",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:luxembourg"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ble-francais",
+      "fr:triman"
+    ],
+    "product_name": "Pain de mie american sandwich rustique sans sucres ajout\u00e9s 500g",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Kellogg's",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:flakes",
+      "en:cereal-flakes",
+      "en:extruded-cereals",
+      "en:extruded-flakes",
+      "en:corn-flakes"
+    ],
+    "code": "3159470000120",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:germany",
+      "en:italy",
+      "en:luxembourg",
+      "en:martinique",
+      "en:mexico",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:halal",
+      "en:kosher",
+      "en:no-artificial-flavors",
+      "en:green-dot",
+      "en:halal-food-authority",
+      "en:manchester-beth-din",
+      "en:no-colorings",
+      "fr:triman"
+    ],
+    "packaging": "1 Bo\u00eete en carton,1 Sachet plastique",
+    "product_name": "CORN FLAKES",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Bjorg",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:chocolate-cereals",
+      "en:mueslis",
+      "en:mueslis-with-chocolate"
+    ],
+    "code": "3229820769165",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:morocco",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:certified-b-corporation",
+      "en:de-oko-001",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:green-dot",
+      "en:made-in-germany",
+      "en:planet-score",
+      "fr:ab-agriculture-biologique",
+      "fr:triman",
+      "fr:Planet-score-b"
+    ],
+    "packaging": "Pl\u00e1stico,Bolsa,en:Dry,fr:Sachet en plastique",
+    "product_name": "Muesli avoine chocolat bio",
+    "quantity": "375 g"
+  },
+  {
+    "brands": "Harry's",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:sweet-snacks",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:brioches",
+      "en:brioche-prepacked",
+      "fr:brioches-tranchees",
+      "fr:Brioches-natures"
+    ],
+    "code": "3228857001378",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:low-or-no-sugar",
+      "en:low-sugar",
+      "en:reduced-sugar",
+      "en:30-less-sugar",
+      "en:made-in-france",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Enveloppe,Sachet en plastique",
+    "product_name": "Brioche moins de sucre",
+    "quantity": "485 g"
+  },
+  {
+    "brands": "alpro",
+    "categories_tags": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:dairy-substitutes",
+      "en:cereals-and-their-products",
+      "en:milk-substitutes",
+      "en:plant-based-beverages",
+      "en:plant-based-milk-alternatives",
+      "en:cereal-based-drinks",
+      "en:unsweetened-beverages",
+      "en:oat-based-drinks",
+      "fr:Boisson avoine"
+    ],
+    "code": "5411188115366",
+    "countries_tags": [
+      "en:belgium",
+      "en:czech-republic",
+      "en:france",
+      "en:germany",
+      "en:hungary",
+      "en:italy",
+      "en:lithuania",
+      "en:luxembourg",
+      "en:morocco",
+      "en:poland",
+      "en:portugal",
+      "en:romania",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-preservatives",
+      "en:source-of-fibre",
+      "en:vegan",
+      "en:100-vegetable",
+      "en:calcium-source",
+      "en:certified-b-corporation",
+      "en:eu-agriculture",
+      "en:european-vegetarian-union",
+      "en:european-vegetarian-union-vegan",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:green-dot",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:no-colorings",
+      "en:no-lactose",
+      "en:no-trans-fat",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:rich-in-vitamin-b",
+      "en:vitamin-b12-source",
+      "en:vitamin-d-source",
+      "en:with-sunflower-oil",
+      "en:without-addition-of-dairy-products",
+      "en:without-sweeteners",
+      "fr:triman",
+      "it:vegan-cert"
+    ],
+    "packaging": "en:composite-carton",
+    "product_name": "Alpro smooth subtle creamy oat",
+    "quantity": "1 l"
+  },
+  {
+    "brands": "Quaker",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:chocolate-cereals",
+      "en:breakfast-cereals-rich-in-fibre",
+      "en:crunchy-cereal-clusters",
+      "en:cereal-clusters-with-chocolate"
+    ],
+    "code": "3168930010906",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:italy",
+      "en:new-caledonia",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:no-artificial-flavors",
+      "en:no-preservatives",
+      "en:green-dot",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-c",
+      "fr:triman",
+      "fr:Chocolat-belge"
+    ],
+    "packaging": "Box,Triman,fr:Etui carton \u00e0 recycler,fr:Pensez au tri!,fr:Point vert,fr:Sachet plastique \u00e0 jeter,fr:Triman",
+    "product_name": "Cruesli Chocolat noir",
+    "quantity": "450 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:white-breads",
+      "en:multigrain-sliced-breads"
+    ],
+    "code": "3228857001194",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:made-in-france",
+      "en:no-added-sugar",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ble-francais",
+      "fr:triman"
+    ],
+    "packaging": "Sachet,Attache",
+    "product_name": "Beau & bon C\u00e9r\u00e9ales & graines",
+    "quantity": "320 g"
+  },
+  {
+    "brands": "Quaker",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:flakes",
+      "en:cereal-flakes",
+      "en:rolled-flakes",
+      "en:rolled-oats"
+    ],
+    "code": "3168930009078",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:reunion",
+      "en:spain",
+      "en:switzerland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:no-preservatives",
+      "en:source-of-fibre",
+      "en:100-natural",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "packaging": "Bo\u00eete,Carton,en:pack,en:Green dot,en:Triman,Bo\u00eete de carton,Etui en carton,Pensez au tri!",
+    "product_name": "Flocons d'avoine compl\u00e8te",
+    "quantity": "550 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:sliced-breads-without-crust"
+    ],
+    "code": "3228857000852",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:luxembourg",
+      "en:martinique",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Plastique, Sachet, Sachet en plastique, Enveloppe",
+    "product_name": "Pain de mie 100% mie nature",
+    "quantity": "500g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads"
+    ],
+    "code": "3228857002184",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "packaging": "sachet",
+    "product_name": "American sandwich nature",
+    "quantity": "550 g"
+  },
+  {
+    "brands": "Crownfield",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:flakes",
+      "en:cereal-flakes",
+      "en:extruded-flakes",
+      "en:rolled-flakes",
+      "en:rolled-oats",
+      "ro:Cereale"
+    ],
+    "code": "20003166",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:germany",
+      "en:italy",
+      "en:netherlands",
+      "en:spain"
+    ],
+    "labels_tags": [
+      "en:german-agricultural-society",
+      "en:gold-medal-of-the-german-agricultural-society",
+      "en:source-of-fibre",
+      "en:2014-gold-medal-of-the-german-agricultural-society",
+      "en:green-dot",
+      "en:high-fibres",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman",
+      "en:Verified",
+      "es:recicla-azul",
+      "fr:medaille-d-or-de-la-societe"
+    ],
+    "packaging": "22 PAP,Bolsa",
+    "product_name": "FIOCCHI D'AVENA",
+    "quantity": "500g"
+  },
+  {
+    "brands": "La Boulang\u00e8re Bio",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sliced-breads"
+    ],
+    "code": "3760049798029",
+    "countries_tags": [
+      "en:france",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:fair-trade",
+      "en:organic",
+      "en:certified-by-ecocert",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:1-for-the-planet",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fair-trade-organic",
+      "en:fr-bio-01",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ab-agriculture-biologique",
+      "fr:agri-ethique-france",
+      "fr:farine-de-ble-francais",
+      "fr:Local"
+    ],
+    "packaging": "Attache plastique, Film en plastique, Sachet plastique",
+    "product_name": "Tartines Bio quinoa & graines 450g",
+    "quantity": "450 g"
+  },
+  {
+    "brands": "Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:multigrain-sliced-breads"
+    ],
+    "code": "3228857002221",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:vegan",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "product_name": "American sandwich C\u00e9r\u00e9ales",
+    "quantity": "550 g"
+  },
+  {
+    "brands": "La boulangere, la Boulang\u00e8re",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:sweet-snacks",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sweet-pastries-and-pies",
+      "en:sliced-breads",
+      "en:viennoiseries",
+      "en:multigrain-sliced-breads",
+      "en:packaged-breads"
+    ],
+    "code": "3760049796384",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:agri-ethique-france",
+      "fr:\u00c9lectricit\u00e9 verte"
+    ],
+    "packaging": "Sachet plastique",
+    "product_name": "Tartines c\u00e9r\u00e9ales & graines 450g",
+    "quantity": "450 g"
+  },
+  {
+    "brands": "Lustucru, Lustucru selection",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:potatoes-and-their-products",
+      "en:pastas",
+      "en:cereal-pastas",
+      "en:fresh-pasta",
+      "en:gnocchi",
+      "en:gnocchi-of-durum-wheat-semolina",
+      "en:potato-gnocchi",
+      "en:cooked-gnocchis"
+    ],
+    "code": "3240931548111",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:no-preservatives",
+      "en:no-flavors",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ],
+    "packaging": "Sachet,Plastique",
+    "product_name": "Gnocchi \u00e0 po\u00ealer",
+    "quantity": "325 g"
+  },
+  {
+    "brands": "KRISPROLLS",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:toasts",
+      "en:toasted-bread-rolls"
+    ],
+    "code": "7311070032598",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:sustainable",
+      "en:no-preservatives",
+      "en:source-of-fibre",
+      "en:sustainable-palm-oil",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:no-additives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:roundtable-on-sustainable-palm-oil",
+      "fr:triman"
+    ],
+    "packaging": "fr:Sachet papier recyclable",
+    "product_name": "Krisprolls complets sans sucres ajout\u00e9s",
+    "quantity": "240 g"
+  },
+  {
+    "brands": "Harry's, Harrys",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:frozen-breads",
+      "en:sliced-breads",
+      "en:wholemeal-breads",
+      "en:wholemeal-sliced-breads"
+    ],
+    "code": "3228857002351",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ],
+    "product_name": "Pain de mie american sandwich complet sans sucres ajout\u00e9s maxi 900g",
+    "quantity": "900 g"
+  },
+  {
+    "brands": "Bjorg",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:wholemeal-breads",
+      "fr:Pain complet 3 c\u00e9r\u00e9ales"
+    ],
+    "code": "3229820019192",
+    "countries_tags": [
+      "en:france",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:source-of-fibre",
+      "en:certified-b-corporation",
+      "en:de-oko-001",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:green-dot",
+      "en:high-fibres",
+      "en:made-in-germany",
+      "en:phosphore-source",
+      "en:planet-score",
+      "en:planet-score-grade-a",
+      "fr:ab-agriculture-biologique",
+      "fr:triman"
+    ],
+    "packaging": "Plastic, Bag, fr:Sachet en plastique",
+    "product_name": "Pain complet 3 c\u00e9r\u00e9ales",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "Lu",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:rusks",
+      "en:toasts"
+    ],
+    "code": "3017760542890",
+    "countries_tags": [
+      "en:france",
+      "en:reunion",
+      "en:switzerland"
+    ],
+    "labels_tags": [
+      "en:distributor-labels",
+      "en:charte-lu-harmony",
+      "en:green-dot",
+      "en:made-in-france",
+      "fr:triman"
+    ],
+    "packaging": "Plastique, Carton",
+    "product_name": "pain grill\u00e9 pelletier",
+    "quantity": "500 g e"
+  },
+  {
+    "brands": "Jordans",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breakfast-cereals",
+      "en:cereals-with-fruits",
+      "en:mueslis",
+      "en:mueslis-with-fruits"
+    ],
+    "code": "5010477348630",
+    "countries_tags": [
+      "en:belgium",
+      "en:france",
+      "en:french-polynesia",
+      "en:italy",
+      "en:luxembourg",
+      "en:spain",
+      "en:switzerland",
+      "en:united-kingdom"
+    ],
+    "labels_tags": [
+      "en:low-or-no-salt",
+      "en:low-or-no-sugar",
+      "en:organic",
+      "en:certified-by-ecocert",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:gb-org-05",
+      "en:no-added-salt",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:soil-association-organic",
+      "fr:ab-agriculture-biologique",
+      "fr:Fsc-c020188"
+    ],
+    "packaging": "Etui en carton,Sac en plastique \u00e0 jeter,Sachet en plastique,\u00c9tui en carton \u00e0 recycler",
+    "product_name": "Muesli bio 36% fruits, noix & graines",
+    "quantity": "500 g"
+  },
+  {
+    "brands": "brioche pasquier",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:toasts",
+      "en:toasted-bread-rolls",
+      "en:wheat-rusk-slices"
+    ],
+    "code": "3182180001477",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:no-gmos",
+      "en:no-added-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ],
+    "packaging": "Carton, Paquet, Etui en carton, Film en plastique, Sachets fra\u00eecheur de partitions film plastique",
+    "product_name": "Grilletine au froment sans sucres ajout\u00e9s",
+    "quantity": "255 g"
+  },
+  {
+    "brands": "la boulang\u00e8re",
+    "categories_tags": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:sweet-pastries-and-pies",
+      "en:viennoiseries",
+      "en:milk-bread-rolls"
+    ],
+    "code": "3760049798890",
+    "countries_tags": [
+      "en:france"
+    ],
+    "labels_tags": [
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic",
+      "en:free-range",
+      "en:1-for-the-planet",
+      "en:free-range-eggs",
+      "en:french-eggs",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:ab-agriculture-biologique",
+      "fr:agri-ethique-france",
+      "fr:farine-de-ble-francais",
+      "fr:\u00c9lectricit\u00e9 verte Origine France"
+    ],
+    "packaging": "",
+    "product_name": "Pain au lait bio x12 420g",
+    "quantity": "420 g"
+  }
+]
